@@ -1,0 +1,45 @@
+package testQa.google.tela;
+
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+
+
+
+public class TelaCriarConta extends AbstractTela {
+	
+	public TelaCriarConta(WebDriver driver) {
+		super(driver);
+		driver.manage().timeouts().implicitlyWait(2000, TimeUnit.MILLISECONDS);
+	}
+	
+	public void abrirSite(String url) {
+		driver.get(url);
+	}
+
+	public void selecionarCrieUmaConta() {
+		driver.findElement(By.xpath("/html/body/div[2]/div[1]/div[4]/ul[1]/li[3]/a")).click();		
+	}	
+	
+	public void preencherLogin(String cpfEmail) {
+		logger.info("TST - Preencher Login ");
+		driver.findElement(By.id("input_email_cpf_login")).click();
+		driver.findElement(By.id("input_email_cpf_login")).sendKeys(cpfEmail);
+		
+	}	
+	
+	public void preencherSenha(String senha) {
+		logger.info("TST -Preenchendo Senha");
+		driver.findElement(By.id("senhaText")).click();
+		driver.findElement(By.id("senhaHeader")).sendKeys(senha);
+	}
+	
+	public void clicarBtnLogin() {
+		logger.info("TST -Preenchendo Senha");
+		driver.findElement(By.id("btnEntrar")).click();
+	}
+	
+}

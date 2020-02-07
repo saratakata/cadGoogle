@@ -1,0 +1,232 @@
+2017-06-14 13:04:13,885  INFO [main] ---------------------------------------------------------
+2017-06-14 13:04:13,984  INFO [main] 
+2017-06-14 13:04:13,885  INFO [main] ---------------------------------------------------------
+2017-06-14 13:04:13,984  INFO [main] 
+2017-06-14 13:04:13,984  INFO [main] * 14/06/2017 13:04:13 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-14 13:04:13,984  INFO [main] 
+2017-06-14 13:04:13,984  INFO [main] * 14/06/2017 13:04:13 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-14 13:04:13,984  INFO [main] ---------------------------------------------------------
+2017-06-14 13:04:13,984  INFO [main] 
+2017-06-14 13:04:13,984  INFO [main] ---------------------------------------------------------
+2017-06-14 13:04:17,555  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:04:17,555  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:07:49,949  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-130749.png
+2017-06-14 13:07:49,949  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-130749.png
+2017-06-14 13:07:50,636  INFO [main] TST - Preenchendo estado
+2017-06-14 13:07:50,636  INFO [main] TST - Preenchendo estado
+2017-06-14 13:07:50,925  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-130750.png
+2017-06-14 13:07:50,925  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-130750.png
+2017-06-14 13:07:51,205  INFO [main] TST - Selecionando estado
+2017-06-14 13:07:51,205  INFO [main] TST - Selecionando estado
+2017-06-14 13:07:59,860  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:07:59,860  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:11:34,325  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir121116_5994}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 33e338e3ccc85ab8e75f1565a7e49992
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-14 13:11:34,335  INFO [main] TST - Preencher Login 
+2017-06-14 13:11:34,325  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir121116_5994}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 33e338e3ccc85ab8e75f1565a7e49992
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-14 13:11:34,335  INFO [main] TST - Preencher Login 
+2017-06-14 13:11:34,574  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:11:34,574  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:11:34,800  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131134.png
+2017-06-14 13:11:34,800  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131134.png
+2017-06-14 13:11:37,096  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:11:37,096  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:11:39,248  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131139.png
+2017-06-14 13:11:39,248  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131139.png
+2017-06-14 13:12:55,570  INFO [main] TST - Fechando Banner
+2017-06-14 13:12:55,570  INFO [main] TST - Fechando Banner
+2017-06-14 13:12:55,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131255.png
+2017-06-14 13:12:55,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131255.png
+2017-06-14 13:12:57,964  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-14 13:12:57,964  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-14 13:12:58,153  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131258.png
+2017-06-14 13:12:58,153  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131258.png
+2017-06-14 13:13:00,345  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-06-14 13:13:00,345  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-06-14 13:13:45,819  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131345.png
+2017-06-14 13:13:45,819  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131345.png
+2017-06-14 13:13:46,636  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:13:46,636  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:13:47,449  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131347.png
+2017-06-14 13:13:47,449  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131347.png
+2017-06-14 13:13:47,652  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:13:47,652  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:14:38,242  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131438.png
+2017-06-14 13:14:38,242  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131438.png
+2017-06-14 13:14:38,854  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:14:38,854  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:14:39,054  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131439.png
+2017-06-14 13:14:39,054  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131439.png
+2017-06-14 13:14:39,242  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:14:39,242  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:15:24,236  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131524.png
+2017-06-14 13:15:24,236  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131524.png
+2017-06-14 13:15:24,693  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:15:24,693  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-06-14 13:15:24,835  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131524.png
+2017-06-14 13:15:24,835  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131524.png
+2017-06-14 13:15:25,110  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:15:25,110  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-06-14 13:16:12,283  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131612.png
+2017-06-14 13:16:12,283  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131612.png
+2017-06-14 13:16:12,578  INFO [main] TST - Selecionando a opção 'Meu plano' no menu lateral esquerdo.
+2017-06-14 13:16:12,578  INFO [main] TST - Selecionando a opção 'Meu plano' no menu lateral esquerdo.
+2017-06-14 13:16:12,750  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131612.png
+2017-06-14 13:16:12,750  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131612.png
+2017-06-14 13:16:12,988  INFO [main] TST - Selecionando a opção 'Saldo e recarga' no menu lateral esquerdo.
+2017-06-14 13:16:12,988  INFO [main] TST - Selecionando a opção 'Saldo e recarga' no menu lateral esquerdo.
+2017-06-14 13:17:04,807  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131704.png
+2017-06-14 13:17:04,807  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-131704.png
+2017-06-14 13:17:05,353  INFO [main] ---------------------------------------------------------
+2017-06-14 13:17:05,353  INFO [main] 
+2017-06-14 13:17:05,353  INFO [main] * 14/06/2017 13:17:05 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-14 13:17:05,353  INFO [main] 
+2017-06-14 13:17:05,353  INFO [main] ---------------------------------------------------------
+2017-06-14 13:17:05,353  INFO [main] ---------------------------------------------------------
+2017-06-14 13:17:05,353  INFO [main] 
+2017-06-14 13:17:05,353  INFO [main] * 14/06/2017 13:17:05 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-14 13:17:05,353  INFO [main] 
+2017-06-14 13:17:05,353  INFO [main] ---------------------------------------------------------
+2017-06-14 13:17:08,157  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:17:08,157  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:17:52,150  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131752.png
+2017-06-14 13:17:52,150  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131752.png
+2017-06-14 13:17:52,348  INFO [main] TST - Preenchendo estado
+2017-06-14 13:17:52,348  INFO [main] TST - Preenchendo estado
+2017-06-14 13:17:52,746  INFO [main] TST - Selecionando estado
+2017-06-14 13:17:52,746  INFO [main] TST - Selecionando estado
+2017-06-14 13:17:57,052  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131757.png
+2017-06-14 13:17:57,052  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131757.png
+2017-06-14 13:17:57,225  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:17:57,225  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:17:59,336  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131759.png
+2017-06-14 13:17:59,336  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131759.png
+2017-06-14 13:18:40,896  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-14 13:18:40,896  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-14 13:18:43,116  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131843.png
+2017-06-14 13:18:43,116  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131843.png
+2017-06-14 13:18:43,305  INFO [main] TST - Clicando no botão continuar
+2017-06-14 13:18:43,305  INFO [main] TST - Clicando no botão continuar
+2017-06-14 13:18:45,426  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:18:45,426  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:18:45,658  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:18:45,658  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:18:45,805  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131845.png
+2017-06-14 13:18:45,805  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131845.png
+2017-06-14 13:18:45,995  INFO [main] TST - Clicando no botão entrar
+2017-06-14 13:18:45,995  INFO [main] TST - Clicando no botão entrar
+2017-06-14 13:18:48,148  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131848.png
+2017-06-14 13:18:48,148  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-131848.png
+2017-06-14 13:19:43,950  INFO [main] TST - Fechando Banner Gestor
+2017-06-14 13:19:43,950  INFO [main] TST - Fechando Banner Gestor
+2017-06-14 13:20:31,425  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132031.png
+2017-06-14 13:20:31,425  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132031.png
+2017-06-14 13:20:31,595  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:20:31,595  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:20:33,766  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132033.png
+2017-06-14 13:20:33,766  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132033.png
+2017-06-14 13:20:33,995  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Minha conta' do menu lateral esquerdo.
+2017-06-14 13:20:33,995  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Minha conta' do menu lateral esquerdo.
+2017-06-14 13:21:27,586  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132127.png
+2017-06-14 13:21:27,586  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132127.png
+2017-06-14 13:21:27,774  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:21:27,774  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:21:29,930  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132129.png
+2017-06-14 13:21:29,930  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132129.png
+2017-06-14 13:21:30,099  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-14 13:21:30,099  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-14 13:21:32,222  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132132.png
+2017-06-14 13:21:32,222  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132132.png
+2017-06-14 13:22:17,142  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:22:17,142  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:22:19,274  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132219.png
+2017-06-14 13:22:19,274  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132219.png
+2017-06-14 13:22:19,506  INFO [main] TST - Selecionando a opção 'Cadastro no Débito Automático' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-14 13:22:19,506  INFO [main] TST - Selecionando a opção 'Cadastro no Débito Automático' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-14 13:23:10,610  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132310.png
+2017-06-14 13:23:10,610  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsqGestor\screenshot-2017.06.14-132310.png
+2017-06-14 13:23:10,826  INFO [main] ---------------------------------------------------------
+2017-06-14 13:23:10,826  INFO [main] 
+2017-06-14 13:23:10,827  INFO [main] * 14/06/2017 13:23:10 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-14 13:23:10,827  INFO [main] 
+2017-06-14 13:23:10,827  INFO [main] ---------------------------------------------------------
+2017-06-14 13:23:10,826  INFO [main] ---------------------------------------------------------
+2017-06-14 13:23:10,826  INFO [main] 
+2017-06-14 13:23:10,827  INFO [main] * 14/06/2017 13:23:10 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-14 13:23:10,827  INFO [main] 
+2017-06-14 13:23:10,827  INFO [main] ---------------------------------------------------------
+2017-06-14 13:23:13,676  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:23:13,676  INFO [main] TST - Abrindo a tela inicial
+2017-06-14 13:23:57,856  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132357.png
+2017-06-14 13:23:57,856  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132357.png
+2017-06-14 13:23:58,077  INFO [main] TST - Preenchendo estado
+2017-06-14 13:23:58,077  INFO [main] TST - Preenchendo estado
+2017-06-14 13:23:58,468  INFO [main] TST - Selecionando estado
+2017-06-14 13:23:58,468  INFO [main] TST - Selecionando estado
+2017-06-14 13:24:02,518  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132402.png
+2017-06-14 13:24:02,518  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132402.png
+2017-06-14 13:24:02,694  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:24:02,694  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-14 13:24:50,502  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132450.png
+2017-06-14 13:24:50,502  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132450.png
+2017-06-14 13:24:50,728  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-14 13:24:50,728  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-14 13:24:50,968  INFO [main] TST - Clicando no botão continuar
+2017-06-14 13:24:50,968  INFO [main] TST - Clicando no botão continuar
+2017-06-14 13:24:53,109  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:24:53,109  INFO [main] TST -Preenchendo Senha
+2017-06-14 13:24:53,320  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132453.png
+2017-06-14 13:24:53,320  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132453.png
+2017-06-14 13:24:53,470  INFO [main] TST - Clicando no botão entrar
+2017-06-14 13:24:53,470  INFO [main] TST - Clicando no botão entrar
+2017-06-14 13:24:55,585  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132455.png
+2017-06-14 13:24:55,585  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132455.png
+2017-06-14 13:26:07,465  INFO [main] TST - Fechando Banner
+2017-06-14 13:26:07,465  INFO [main] TST - Fechando Banner
+2017-06-14 13:26:09,486  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir121608_8718}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a219dee9235c4507af05b10aed245415
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-14 13:26:09,486  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:26:09,486  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir121608_8718}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a219dee9235c4507af05b10aed245415
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-14 13:26:09,486  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-14 13:26:14,729  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132614.png
+2017-06-14 13:26:14,729  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.14-132614.png
+2017-06-14 13:26:14,932  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.
+2017-06-14 13:26:14,932  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="testQa.google.tela.TelaCriarConta"/>
+<fullyQualifiedTypeName name="testQa.google.tela.TelaVerificarTel"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.exolab.castor.types.DateTime"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="com.ibm.icu.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="testQa.google.base.Report"/>
+<fullyQualifiedTypeName name="testQa.google.base.Context"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="java.awt.image.WritableRaster"/>
+<fullyQualifiedTypeName name="java.awt.image.DataBufferByte"/>
+<fullyQualifiedTypeName name="testQa.google.base.Screenshot"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="testQa.teste.qa.Status"/>
+<fullyQualifiedTypeName name="testQa.teste.qa.utils.Utils"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="testQa.google.tela.TelaFakeName"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="testQa.teste.qa.GeraMassa"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="testQa.teste.qa.dto.Pessoa"/>
+<fullyQualifiedTypeName name="java.text.Normalizer"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,180 @@
+package testQa.teste.qa.utils;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
+
+import testQa.teste.qa.dto.Pessoa;
+
+public class Utils {
+
+	/**
+	 * Funcao simplificada que retorna a data atual.
+	 * @return 
+	 */
+	public static String getDate()
+	{
+		Date data = new Date(System.currentTimeMillis());  
+		SimpleDateFormat formatarDate = new SimpleDateFormat("dd/MM/yyyy"); 
+		return formatarDate.format(data);
+	}
+	
+	
+	/**
+	 * Funcao simplificada que retorna a data atual.
+	 * @return 
+	 */
+	public static String getDateTime()
+	{
+		Date data = new Date(System.currentTimeMillis());  
+		SimpleDateFormat formatarDate = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss"); 
+		return formatarDate.format(data);
+	}
+	
+	
+	/**
+	 * Retorna o diretorio da aplicacao.
+	 * 
+	 * @return
+	 */
+	public static String canonicalPath()
+	{
+		String ret = "";
+		try {
+			ret = new File(".").getCanonicalPath();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return ret;
+	}
+	
+	/**
+	 * Cria o nome do arquivo de output automaticamente.
+	 * 
+	 * @param path
+	 * @param ctName
+	 * @return
+	 */
+	public static String createFileName(String path, String ctName)
+	{		
+		Date data = new Date(System.currentTimeMillis());  
+		SimpleDateFormat formatarDate = new SimpleDateFormat("YYYYMMddHHmmss"); 
+		String dt = formatarDate.format(data);
+			
+		if(path!=null && ctName != null && !path.equals("") && !ctName.equals("")){
+			String str = ctName.concat("-").concat(dt).replaceAll(" ", "_");
+			return path.concat(str).concat(".pdf");
+		}else{
+			return canonicalPath().concat("/report.pdf");
+		}
+	}
+	
+	/**
+	 * Gera arquivo da massa.
+	 * 
+	 * @param dados
+	 * @param arquivo
+	 */
+	public static void geraArquivoCSV(List<Pessoa> dados, String arquivo) 
+	{
+		try {
+			FileWriter writer = new FileWriter(arquivo);
+
+			for (int i = 0; i < dados.size(); i++) {
+				writer.append(dados.get(i).getNome());
+				writer.append(',');
+				writer.append(dados.get(i).getSobrenome());
+				writer.append(',');
+				writer.append(dados.get(i).getCodigoPais().toString());
+				writer.append(',');
+				writer.append(dados.get(i).getTelefone());
+				writer.append(',');
+				writer.append(dados.get(i).getDtNascimento().getDia());
+				writer.append(',');
+				writer.append(dados.get(i).getDtNascimento().getMes());
+				writer.append(',');
+				writer.append(dados.get(i).getDtNascimento().getAno());
+				writer.append(',');
+				writer.append(dados.get(i).getGenero());
+				writer.append(',');
+				writer.append(dados.get(i).getPais());
+				writer.append('\n');
+			}
+			writer.flush();
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	/**
+	 * Remove arquivo.
+	 * 
+	 * @param arquivo
+	 */
+	public static void removeArquivo(String arquivo)
+	{
+		File file = new File(arquivo); 
+		if(file.isFile()) {
+			file.delete();
+		}
+	}
+	
+	/**
+	* Le arquivo csv.
+	*/
+	public static List<Pessoa> leArquivoCSV(String arquivo)
+	{
+	List<Pessoa> dados = new ArrayList<Pessoa>();
+	try {
+	   BufferedReader br = null;
+	   String linha = "";
+	   String split = ",";
+	   try {
+	       br = new BufferedReader(new FileReader(arquivo));
+	       while ((linha = br.readLine()) != null) {
+
+	        String[] p = linha.split(split);
+	       
+	        Pessoa pessoa = new Pessoa();
+	       
+	        pessoa.setNome(p[p.length-9]);
+	        pessoa.setSobrenome(p[p.length-8]);
+	        pessoa.setCodigoPais(Integer.parseInt(p[p.length-7]));
+	        pessoa.setTelefone(p[p.length-6]);
+	       
+	        DTNascimento dt = new DTNascimento();
+	        dt.setDia(p[p.length-5]);
+	        dt.setMes(p[p.length-4]);
+	        dt.setAno(p[p.length-3]);
+	       
+	        pessoa.setDtNascimento(dt);
+	        pessoa.setGenero(p[p.length-2]);
+	        pessoa.setPais(p[p.length-1]);
+	           dados.add(pessoa);
+	       }
+
+	   } catch (FileNotFoundException e) {
+	       e.printStackTrace();
+	   } catch (IOException e) {
+	       e.printStackTrace();
+	   } finally {
+	       if (br != null) {
+	           try {
+	               br.close();
+	           } catch (IOException e) {
+	               e.printStackTrace();
+	           }
+	       }
+	   }
+	}catch(Exception ex) {
+	ex.printStackTrace();
+	}
+	return dados;
+	}
+
+	
+}

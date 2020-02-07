@@ -1,0 +1,62 @@
+package testQa.teste.qa.report;
+
+import java.io.InputStream;
+import java.io.Serializable;
+
+public class Step implements Serializable {
+
+private static final long serialVersionUID = -8380986441750684280L;
+
+	private Integer id;
+	private String description;
+	private InputStream evid;
+	private String status;
+	
+	public Step(){}
+	
+	public Step(Integer id, String description, InputStream evid, String status)
+	{
+		this.id = id;
+		this.description = description;
+		this.evid = evid;
+		this.status = status;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public InputStream getEvid() {
+		return evid;
+	}
+
+	public void setEvid(InputStream evid) {
+		this.evid = evid;
+	}
+
+	public static long getSerialversionuid() {
+		return serialVersionUID;
+	}
+
+	public String getStatus() {
+		return status;
+	}
+
+	public void setStatus(String status) {
+		this.status = status;
+	}
+	
+}

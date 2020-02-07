@@ -1,0 +1,22 @@
+package testQa.teste.qa.report;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+
+public class ImageRead {
+
+	public static byte[] imageToByte(String image) throws IOException {
+	    InputStream is = null;
+	    byte[] buffer = null;
+	    is = new FileInputStream(image);
+	    buffer = new byte[is.available()];
+	    is.read(buffer);
+	    is.close();
+	    return buffer;
+	}
+	
+	public static FileInputStream imageToInputStream(String image) throws IOException {
+	    return new FileInputStream(image);
+	}
+}

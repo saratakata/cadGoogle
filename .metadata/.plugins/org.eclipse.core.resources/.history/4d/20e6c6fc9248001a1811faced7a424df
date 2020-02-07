@@ -1,0 +1,37 @@
+package testQa.google.tela;
+
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+
+
+
+public class TelaVerificarTel extends AbstractTela {
+	
+	public TelaVerificarTel(WebDriver driver) {
+		super(driver);
+		driver.manage().timeouts().implicitlyWait(2000, TimeUnit.MILLISECONDS);
+	}
+	
+	public void selecionarPais(String pais) {
+		driver.findElement(By.id("")).click();
+		driver.findElement(By.id("firstName")).sendKeys(pais);
+	}
+
+	public void preencherTel(String tel) {
+		driver.findElement(By.id("firstName")).click();
+		driver.findElement(By.id("firstName")).sendKeys(tel);
+	}	
+	
+	public void preencherConfirmarSenha(String senha){
+		driver.findElement(By.xpath("//*[@id='confirm-passwd']/div[1]/div/div[1]/input")).click();
+		driver.findElement(By.xpath("//*[@id='confirm-passwd']/div[1]/div/div[1]/input")).sendKeys(senha);
+	}
+	
+	public void selecionarProximo(){
+		driver.findElement(By.id("accountDetailsNext")).click();
+	}
+}

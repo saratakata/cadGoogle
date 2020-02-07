@@ -1,0 +1,626 @@
+2017-05-23 09:30:18,830  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 09:30:18,830  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 09:33:54,685  INFO [main] ---------------------------------------------------------
+2017-05-23 09:33:54,685  INFO [main] 
+2017-05-23 09:33:54,685  INFO [main] ---------------------------------------------------------
+2017-05-23 09:33:54,685  INFO [main] 
+2017-05-23 09:33:54,686  INFO [main] * 23/05/2017 09:33:54 EXECUTANDO => testLogar
+2017-05-23 09:33:54,686  INFO [main] 
+2017-05-23 09:33:54,686  INFO [main] * 23/05/2017 09:33:54 EXECUTANDO => testLogar
+2017-05-23 09:33:54,686  INFO [main] ---------------------------------------------------------
+2017-05-23 09:33:54,686  INFO [main] 
+2017-05-23 09:33:54,686  INFO [main] ---------------------------------------------------------
+2017-05-23 09:33:55,012  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093355.png
+2017-05-23 09:33:55,012  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093355.png
+2017-05-23 09:33:55,296  INFO [main] TST - Preenchendo estado
+2017-05-23 09:33:55,296  INFO [main] TST - Preenchendo estado
+2017-05-23 09:33:55,703  INFO [main] TST - Selecionando estado
+2017-05-23 09:33:55,703  INFO [main] TST - Selecionando estado
+2017-05-23 09:33:57,452  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 09:33:57,452  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 09:37:31,230  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093731.png
+2017-05-23 09:37:31,230  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093731.png
+2017-05-23 09:37:31,568  INFO [main] TST - Preencher Login 
+2017-05-23 09:37:31,568  INFO [main] TST - Preencher Login 
+2017-05-23 09:37:31,929  INFO [main] TST -Preenchendo Senha
+2017-05-23 09:37:31,929  INFO [main] TST -Preenchendo Senha
+2017-05-23 09:37:32,235  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093732.png
+2017-05-23 09:37:32,235  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093732.png
+2017-05-23 09:37:32,473  INFO [main] TST -Preenchendo Senha
+2017-05-23 09:37:32,473  INFO [main] TST -Preenchendo Senha
+2017-05-23 09:37:34,634  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093734.png
+2017-05-23 09:37:34,634  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-093734.png
+2017-05-23 10:39:38,809  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 10:39:38,809  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 10:43:12,409  INFO [main] ---------------------------------------------------------
+2017-05-23 10:43:12,409  INFO [main] 
+2017-05-23 10:43:12,409  INFO [main] ---------------------------------------------------------
+2017-05-23 10:43:12,409  INFO [main] 
+2017-05-23 10:43:12,409  INFO [main] * 23/05/2017 10:43:12 EXECUTANDO => testLogar
+2017-05-23 10:43:12,409  INFO [main] 
+2017-05-23 10:43:12,409  INFO [main] * 23/05/2017 10:43:12 EXECUTANDO => testLogar
+2017-05-23 10:43:12,410  INFO [main] ---------------------------------------------------------
+2017-05-23 10:43:12,409  INFO [main] 
+2017-05-23 10:43:12,410  INFO [main] ---------------------------------------------------------
+2017-05-23 10:43:12,414  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104312.png
+2017-05-23 10:43:12,414  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104312.png
+2017-05-23 10:43:12,634  INFO [main] TST - Preenchendo estado
+2017-05-23 10:43:12,634  INFO [main] TST - Preenchendo estado
+2017-05-23 10:43:13,047  INFO [main] TST - Selecionando estado
+2017-05-23 10:43:13,047  INFO [main] TST - Selecionando estado
+2017-05-23 10:43:14,789  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 10:43:14,789  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 10:46:48,698  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104648.png
+2017-05-23 10:46:48,698  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104648.png
+2017-05-23 10:46:48,970  INFO [main] TST - Preencher Login 
+2017-05-23 10:46:48,970  INFO [main] TST - Preencher Login 
+2017-05-23 10:46:49,343  INFO [main] TST -Preenchendo Senha
+2017-05-23 10:46:49,343  INFO [main] TST -Preenchendo Senha
+2017-05-23 10:46:49,651  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104649.png
+2017-05-23 10:46:49,651  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104649.png
+2017-05-23 10:46:49,932  INFO [main] TST -Preenchendo Senha
+2017-05-23 10:46:49,932  INFO [main] TST -Preenchendo Senha
+2017-05-23 10:46:52,080  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104652.png
+2017-05-23 10:46:52,080  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-104652.png
+2017-05-23 13:02:35,384  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 13:02:35,384  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 13:06:39,003  INFO [main] ---------------------------------------------------------
+2017-05-23 13:06:39,003  INFO [main] 
+2017-05-23 13:06:39,003  INFO [main] ---------------------------------------------------------
+2017-05-23 13:06:39,003  INFO [main] 
+2017-05-23 13:06:39,004  INFO [main] * 23/05/2017 13:06:39 EXECUTANDO => testLogar
+2017-05-23 13:06:39,004  INFO [main] 
+2017-05-23 13:06:39,004  INFO [main] * 23/05/2017 13:06:39 EXECUTANDO => testLogar
+2017-05-23 13:06:39,004  INFO [main] ---------------------------------------------------------
+2017-05-23 13:06:39,004  INFO [main] 
+2017-05-23 13:06:39,004  INFO [main] ---------------------------------------------------------
+2017-05-23 13:06:39,009  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-130639.png
+2017-05-23 13:06:39,009  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-130639.png
+2017-05-23 13:06:39,235  INFO [main] TST - Preenchendo estado
+2017-05-23 13:06:39,235  INFO [main] TST - Preenchendo estado
+2017-05-23 13:06:39,599  INFO [main] TST - Selecionando estado
+2017-05-23 13:06:39,599  INFO [main] TST - Selecionando estado
+2017-05-23 13:06:41,380  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 13:06:41,380  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 13:10:15,949  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131015.png
+2017-05-23 13:10:15,949  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131015.png
+2017-05-23 13:10:16,302  INFO [main] TST - Preencher Login 
+2017-05-23 13:10:16,302  INFO [main] TST - Preencher Login 
+2017-05-23 13:10:16,685  INFO [main] TST -Preenchendo Senha
+2017-05-23 13:10:16,685  INFO [main] TST -Preenchendo Senha
+2017-05-23 13:10:16,988  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131016.png
+2017-05-23 13:10:16,988  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131016.png
+2017-05-23 13:10:17,241  INFO [main] TST -Preenchendo Senha
+2017-05-23 13:10:17,241  INFO [main] TST -Preenchendo Senha
+2017-05-23 13:10:19,384  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131019.png
+2017-05-23 13:10:19,384  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-131019.png
+2017-05-23 14:21:01,711  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 14:21:01,711  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 14:24:36,000  INFO [main] ---------------------------------------------------------
+2017-05-23 14:24:36,000  INFO [main] 
+2017-05-23 14:24:36,000  INFO [main] * 23/05/2017 14:24:36 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 14:24:36,000  INFO [main] 
+2017-05-23 14:24:36,000  INFO [main] ---------------------------------------------------------
+2017-05-23 14:24:36,001  INFO [main] TST - Preenchendo estado
+2017-05-23 14:24:36,000  INFO [main] ---------------------------------------------------------
+2017-05-23 14:24:36,000  INFO [main] 
+2017-05-23 14:24:36,000  INFO [main] * 23/05/2017 14:24:36 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 14:24:36,000  INFO [main] 
+2017-05-23 14:24:36,000  INFO [main] ---------------------------------------------------------
+2017-05-23 14:24:36,001  INFO [main] TST - Preenchendo estado
+2017-05-23 14:24:36,376  INFO [main] TST - Selecionando estado
+2017-05-23 14:24:36,376  INFO [main] TST - Selecionando estado
+2017-05-23 14:24:38,134  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 14:24:38,134  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 14:28:10,093  INFO [main] TST - Preencher Login 
+2017-05-23 14:28:10,093  INFO [main] TST - Preencher Login 
+2017-05-23 14:28:10,462  INFO [main] TST -Preenchendo Senha
+2017-05-23 14:28:10,462  INFO [main] TST -Preenchendo Senha
+2017-05-23 14:28:10,765  INFO [main] TST -Preenchendo Senha
+2017-05-23 14:28:10,765  INFO [main] TST -Preenchendo Senha
+2017-05-23 14:28:12,937  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142812.png
+2017-05-23 14:28:12,937  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142812.png
+2017-05-23 14:29:12,943  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 14:29:12,943  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 14:29:13,103  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 14:29:13,103  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 14:29:58,541  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142958.png
+2017-05-23 14:29:58,541  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142958.png
+2017-05-23 14:29:58,779  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 14:29:58,779  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 14:29:58,962  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142958.png
+2017-05-23 14:29:58,962  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-142958.png
+2017-05-23 14:29:59,153  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 14:29:59,153  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 14:30:56,199  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-143056.png
+2017-05-23 14:30:56,199  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-143056.png
+2017-05-23 15:04:12,238  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:04:12,238  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:07:44,357  INFO [main] ---------------------------------------------------------
+2017-05-23 15:07:44,357  INFO [main] 
+2017-05-23 15:07:44,357  INFO [main] ---------------------------------------------------------
+2017-05-23 15:07:44,357  INFO [main] 
+2017-05-23 15:07:44,357  INFO [main] * 23/05/2017 15:07:44 EXECUTANDO => testLogar
+2017-05-23 15:07:44,358  INFO [main] 
+2017-05-23 15:07:44,358  INFO [main] ---------------------------------------------------------
+2017-05-23 15:07:44,357  INFO [main] * 23/05/2017 15:07:44 EXECUTANDO => testLogar
+2017-05-23 15:07:44,358  INFO [main] 
+2017-05-23 15:07:44,358  INFO [main] ---------------------------------------------------------
+2017-05-23 15:07:44,363  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-150744.png
+2017-05-23 15:07:44,363  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-150744.png
+2017-05-23 15:07:44,594  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-150744.png
+2017-05-23 15:07:44,594  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-150744.png
+2017-05-23 15:07:44,792  INFO [main] TST - Preenchendo estado
+2017-05-23 15:07:44,792  INFO [main] TST - Preenchendo estado
+2017-05-23 15:07:45,135  INFO [main] TST - Selecionando estado
+2017-05-23 15:07:45,135  INFO [main] TST - Selecionando estado
+2017-05-23 15:07:46,871  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:07:46,871  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:10:22,119  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:10:22,119  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:13:57,401  INFO [main] ---------------------------------------------------------
+2017-05-23 15:13:57,401  INFO [main] 
+2017-05-23 15:13:57,401  INFO [main] * 23/05/2017 15:13:57 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:13:57,401  INFO [main] ---------------------------------------------------------
+2017-05-23 15:13:57,401  INFO [main] 
+2017-05-23 15:13:57,401  INFO [main] 
+2017-05-23 15:13:57,401  INFO [main] * 23/05/2017 15:13:57 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:13:57,401  INFO [main] 
+2017-05-23 15:13:57,403  INFO [main] ---------------------------------------------------------
+2017-05-23 15:13:57,403  INFO [main] ---------------------------------------------------------
+2017-05-23 15:13:57,408  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151357.png
+2017-05-23 15:13:57,408  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151357.png
+2017-05-23 15:13:57,664  INFO [main] TST - Preenchendo estado
+2017-05-23 15:13:57,664  INFO [main] TST - Preenchendo estado
+2017-05-23 15:13:58,031  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151358.png
+2017-05-23 15:13:58,031  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151358.png
+2017-05-23 15:13:58,257  INFO [main] TST - Selecionando estado
+2017-05-23 15:13:58,257  INFO [main] TST - Selecionando estado
+2017-05-23 15:14:01,040  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:14:01,040  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:17:34,021  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151734.png
+2017-05-23 15:17:34,021  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151734.png
+2017-05-23 15:17:34,259  INFO [main] TST - Preencher Login 
+2017-05-23 15:17:34,259  INFO [main] TST - Preencher Login 
+2017-05-23 15:17:34,596  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:17:34,596  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:17:34,911  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151734.png
+2017-05-23 15:17:34,911  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151734.png
+2017-05-23 15:17:35,165  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:17:35,165  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:17:37,326  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151737.png
+2017-05-23 15:17:37,326  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151737.png
+2017-05-23 15:18:58,006  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 15:18:58,006  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 15:18:58,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151858.png
+2017-05-23 15:18:58,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151858.png
+2017-05-23 15:18:58,408  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 15:18:58,408  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 15:19:43,081  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151943.png
+2017-05-23 15:19:43,081  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151943.png
+2017-05-23 15:19:43,255  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 15:19:43,255  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 15:19:43,446  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151943.png
+2017-05-23 15:19:43,446  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-151943.png
+2017-05-23 15:19:43,613  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 15:19:43,613  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 15:20:38,501  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152038.png
+2017-05-23 15:20:38,501  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152038.png
+2017-05-23 15:25:07,900  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:25:07,900  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:25:52,340  INFO [main] ---------------------------------------------------------
+2017-05-23 15:25:52,340  INFO [main] 
+2017-05-23 15:25:52,340  INFO [main] ---------------------------------------------------------
+2017-05-23 15:25:52,340  INFO [main] 
+2017-05-23 15:25:52,340  INFO [main] * 23/05/2017 15:25:52 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:25:52,340  INFO [main] 
+2017-05-23 15:25:52,340  INFO [main] * 23/05/2017 15:25:52 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:25:52,340  INFO [main] 
+2017-05-23 15:25:52,340  INFO [main] ---------------------------------------------------------
+2017-05-23 15:25:52,340  INFO [main] ---------------------------------------------------------
+2017-05-23 15:25:52,346  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152552.png
+2017-05-23 15:25:52,346  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152552.png
+2017-05-23 15:25:52,577  INFO [main] TST - Preenchendo estado
+2017-05-23 15:25:52,577  INFO [main] TST - Preenchendo estado
+2017-05-23 15:25:52,969  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152552.png
+2017-05-23 15:25:52,969  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-152552.png
+2017-05-23 15:25:53,173  INFO [main] TST - Selecionando estado
+2017-05-23 15:25:53,173  INFO [main] TST - Selecionando estado
+2017-05-23 15:25:55,882  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:25:55,882  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:31:21,984  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:31:21,984  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:32:07,280  INFO [main] ---------------------------------------------------------
+2017-05-23 15:32:07,280  INFO [main] 
+2017-05-23 15:32:07,280  INFO [main] * 23/05/2017 15:32:07 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:32:07,280  INFO [main] 
+2017-05-23 15:32:07,281  INFO [main] ---------------------------------------------------------
+2017-05-23 15:32:07,280  INFO [main] ---------------------------------------------------------
+2017-05-23 15:32:07,280  INFO [main] 
+2017-05-23 15:32:07,280  INFO [main] * 23/05/2017 15:32:07 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:32:07,280  INFO [main] 
+2017-05-23 15:32:07,281  INFO [main] ---------------------------------------------------------
+2017-05-23 15:32:07,286  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-153207.png
+2017-05-23 15:32:07,286  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-153207.png
+2017-05-23 15:32:07,516  INFO [main] TST - Preenchendo estado
+2017-05-23 15:32:07,516  INFO [main] TST - Preenchendo estado
+2017-05-23 15:32:07,869  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-153207.png
+2017-05-23 15:32:07,869  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-153207.png
+2017-05-23 15:32:08,085  INFO [main] TST - Selecionando estado
+2017-05-23 15:32:08,085  INFO [main] TST - Selecionando estado
+2017-05-23 15:32:10,814  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:32:10,814  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:45:10,700  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:45:10,700  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:45:55,475  INFO [main] ---------------------------------------------------------
+2017-05-23 15:45:55,475  INFO [main] 
+2017-05-23 15:45:55,475  INFO [main] * 23/05/2017 15:45:55 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:45:55,475  INFO [main] ---------------------------------------------------------
+2017-05-23 15:45:55,475  INFO [main] 
+2017-05-23 15:45:55,475  INFO [main] 
+2017-05-23 15:45:55,476  INFO [main] ---------------------------------------------------------
+2017-05-23 15:45:55,475  INFO [main] * 23/05/2017 15:45:55 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:45:55,475  INFO [main] 
+2017-05-23 15:45:55,476  INFO [main] ---------------------------------------------------------
+2017-05-23 15:45:55,482  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-154555.png
+2017-05-23 15:45:55,482  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-154555.png
+2017-05-23 15:45:55,754  INFO [main] TST - Preenchendo estado
+2017-05-23 15:45:55,754  INFO [main] TST - Preenchendo estado
+2017-05-23 15:45:56,025  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-154556.png
+2017-05-23 15:45:56,025  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-154556.png
+2017-05-23 15:45:56,196  INFO [main] TST - Selecionando estado
+2017-05-23 15:45:56,196  INFO [main] TST - Selecionando estado
+2017-05-23 15:45:58,917  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:45:58,917  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:47:50,962  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:47:50,962  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:51:24,589  INFO [main] ---------------------------------------------------------
+2017-05-23 15:51:24,590  INFO [main] 
+2017-05-23 15:51:24,590  INFO [main] * 23/05/2017 15:51:24 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:51:24,590  INFO [main] 
+2017-05-23 15:51:24,590  INFO [main] ---------------------------------------------------------
+2017-05-23 15:51:24,589  INFO [main] ---------------------------------------------------------
+2017-05-23 15:51:24,590  INFO [main] 
+2017-05-23 15:51:24,590  INFO [main] * 23/05/2017 15:51:24 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 15:51:24,590  INFO [main] 
+2017-05-23 15:51:24,590  INFO [main] ---------------------------------------------------------
+2017-05-23 15:51:24,595  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155124.png
+2017-05-23 15:51:24,595  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155124.png
+2017-05-23 15:51:24,859  INFO [main] TST - Preenchendo estado
+2017-05-23 15:51:24,859  INFO [main] TST - Preenchendo estado
+2017-05-23 15:51:25,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155125.png
+2017-05-23 15:51:25,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155125.png
+2017-05-23 15:51:25,450  INFO [main] TST - Selecionando estado
+2017-05-23 15:51:25,450  INFO [main] TST - Selecionando estado
+2017-05-23 15:51:28,237  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:51:28,237  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 15:55:00,017  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155500.png
+2017-05-23 15:55:00,017  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155500.png
+2017-05-23 15:55:00,273  INFO [main] TST - Preencher Login 
+2017-05-23 15:55:00,273  INFO [main] TST - Preencher Login 
+2017-05-23 15:55:00,637  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:55:00,637  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:55:01,032  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155501.png
+2017-05-23 15:55:01,032  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155501.png
+2017-05-23 15:55:01,335  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:55:01,335  INFO [main] TST -Preenchendo Senha
+2017-05-23 15:55:03,498  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155503.png
+2017-05-23 15:55:03,498  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155503.png
+2017-05-23 15:55:54,978  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 15:55:54,978  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 15:55:55,142  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155555.png
+2017-05-23 15:55:55,142  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155555.png
+2017-05-23 15:55:55,313  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 15:55:55,313  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 15:57:26,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155726.png
+2017-05-23 15:57:26,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-155726.png
+2017-05-23 15:57:26,773 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir30436_27095}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: c6d5ac042ba6feabfdcc6e73a5ae581b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsq(preteste.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-23 15:57:26,784  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 15:57:26,773 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir30436_27095}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: c6d5ac042ba6feabfdcc6e73a5ae581b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsq(preteste.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-23 15:57:26,784  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 15:57:35,386  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 15:57:35,386  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 16:01:09,410  INFO [main] ---------------------------------------------------------
+2017-05-23 16:01:09,410  INFO [main] 
+2017-05-23 16:01:09,411  INFO [main] * 23/05/2017 16:01:09 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:01:09,411  INFO [main] 
+2017-05-23 16:01:09,411  INFO [main] ---------------------------------------------------------
+2017-05-23 16:01:09,415  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160109.png
+2017-05-23 16:01:09,410  INFO [main] ---------------------------------------------------------
+2017-05-23 16:01:09,410  INFO [main] 
+2017-05-23 16:01:09,411  INFO [main] * 23/05/2017 16:01:09 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:01:09,411  INFO [main] 
+2017-05-23 16:01:09,411  INFO [main] ---------------------------------------------------------
+2017-05-23 16:01:09,415  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160109.png
+2017-05-23 16:01:09,648  INFO [main] TST - Preenchendo estado
+2017-05-23 16:01:09,648  INFO [main] TST - Preenchendo estado
+2017-05-23 16:01:09,981  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160109.png
+2017-05-23 16:01:09,981  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160109.png
+2017-05-23 16:01:10,192  INFO [main] TST - Selecionando estado
+2017-05-23 16:01:10,192  INFO [main] TST - Selecionando estado
+2017-05-23 16:01:12,919  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:01:12,919  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:04:14,170  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160414.png
+2017-05-23 16:04:14,170  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160414.png
+2017-05-23 16:04:14,183 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir25768_11594}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: c9a2441eb299f096a6effa13befcaafc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsq(preteste.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-23 16:04:14,202  INFO [main] TST - Preencher Login 
+2017-05-23 16:04:14,183 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir25768_11594}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: c9a2441eb299f096a6effa13befcaafc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsq(preteste.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-23 16:04:14,202  INFO [main] TST - Preencher Login 
+2017-05-23 16:04:30,032  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 16:04:30,032  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 16:08:02,346  INFO [main] ---------------------------------------------------------
+2017-05-23 16:08:02,346  INFO [main] 
+2017-05-23 16:08:02,346  INFO [main] ---------------------------------------------------------
+2017-05-23 16:08:02,346  INFO [main] 
+2017-05-23 16:08:02,346  INFO [main] * 23/05/2017 16:08:02 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:08:02,347  INFO [main] 
+2017-05-23 16:08:02,346  INFO [main] * 23/05/2017 16:08:02 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:08:02,347  INFO [main] ---------------------------------------------------------
+2017-05-23 16:08:02,347  INFO [main] 
+2017-05-23 16:08:02,347  INFO [main] ---------------------------------------------------------
+2017-05-23 16:08:02,352  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160802.png
+2017-05-23 16:08:02,352  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160802.png
+2017-05-23 16:08:02,600  INFO [main] TST - Preenchendo estado
+2017-05-23 16:08:02,600  INFO [main] TST - Preenchendo estado
+2017-05-23 16:08:02,943  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160802.png
+2017-05-23 16:08:02,943  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-160802.png
+2017-05-23 16:08:03,176  INFO [main] TST - Selecionando estado
+2017-05-23 16:08:03,176  INFO [main] TST - Selecionando estado
+2017-05-23 16:08:05,878  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:08:05,878  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:11:37,924  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161137.png
+2017-05-23 16:11:37,924  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161137.png
+2017-05-23 16:11:38,295  INFO [main] TST - Preencher Login 
+2017-05-23 16:11:38,295  INFO [main] TST - Preencher Login 
+2017-05-23 16:11:38,646  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:11:38,646  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:11:39,034  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161139.png
+2017-05-23 16:11:39,034  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161139.png
+2017-05-23 16:11:39,318  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:11:39,318  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:11:41,475  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161141.png
+2017-05-23 16:11:41,475  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161141.png
+2017-05-23 16:12:46,991  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 16:12:46,991  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 16:12:47,155  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161247.png
+2017-05-23 16:12:47,155  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161247.png
+2017-05-23 16:12:47,356  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 16:12:47,356  INFO [main] TST - Selecionando a opção 'Consumo de internet' no submenu Consumo do menu lateral esquerdo.
+2017-05-23 16:13:35,259  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161335.png
+2017-05-23 16:13:35,259  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161335.png
+2017-05-23 16:13:35,471  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 16:13:35,471  INFO [main] TST - Selecionando a opção 'Conta' no menu lateral esquerdo.
+2017-05-23 16:13:35,657  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161335.png
+2017-05-23 16:13:35,657  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161335.png
+2017-05-23 16:13:35,882  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 16:13:35,882  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu Contas do menu lateral esquerdo.
+2017-05-23 16:14:28,950  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161428.png
+2017-05-23 16:14:28,950  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161428.png
+2017-05-23 16:14:29,157  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161429.png
+2017-05-23 16:14:29,157  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161429.png
+2017-05-23 16:14:29,296  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-05-23 16:14:29,296  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu Contas do menu lateral esquerdo.
+2017-05-23 16:15:59,975  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 16:15:59,975  INFO [main] TST - Abrindo a tela inicial
+2017-05-23 16:19:32,236  INFO [main] ---------------------------------------------------------
+2017-05-23 16:19:32,236  INFO [main] 
+2017-05-23 16:19:32,236  INFO [main] * 23/05/2017 16:19:32 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:19:32,236  INFO [main] 
+2017-05-23 16:19:32,236  INFO [main] ---------------------------------------------------------
+2017-05-23 16:19:32,236  INFO [main] ---------------------------------------------------------
+2017-05-23 16:19:32,236  INFO [main] 
+2017-05-23 16:19:32,236  INFO [main] * 23/05/2017 16:19:32 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-23 16:19:32,236  INFO [main] 
+2017-05-23 16:19:32,236  INFO [main] ---------------------------------------------------------
+2017-05-23 16:19:32,243  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161932.png
+2017-05-23 16:19:32,243  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161932.png
+2017-05-23 16:19:32,506  INFO [main] TST - Preenchendo estado
+2017-05-23 16:19:32,506  INFO [main] TST - Preenchendo estado
+2017-05-23 16:19:32,861  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161932.png
+2017-05-23 16:19:32,861  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-161932.png
+2017-05-23 16:19:33,070  INFO [main] TST - Selecionando estado
+2017-05-23 16:19:33,070  INFO [main] TST - Selecionando estado
+2017-05-23 16:19:35,806  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:19:35,806  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-23 16:23:08,075  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162308.png
+2017-05-23 16:23:08,075  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162308.png
+2017-05-23 16:23:08,339  INFO [main] TST - Preencher Login 
+2017-05-23 16:23:08,339  INFO [main] TST - Preencher Login 
+2017-05-23 16:23:08,630  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:23:08,630  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:23:08,922  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162308.png
+2017-05-23 16:23:08,922  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162308.png
+2017-05-23 16:23:09,152  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:23:09,152  INFO [main] TST -Preenchendo Senha
+2017-05-23 16:23:11,301  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162311.png
+2017-05-23 16:23:11,301  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.23-162311.png
+2017-05-23 16:24:23,072  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-05-23 16:24:23,072  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.

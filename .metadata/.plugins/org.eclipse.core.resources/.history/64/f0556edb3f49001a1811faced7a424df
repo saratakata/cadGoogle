@@ -1,0 +1,31 @@
+package testQa.google.test;
+
+import testQa.teste.qa.ImageRead;
+import testQa.teste.qa.ReportGenerator;
+import testQa.teste.qa.Status;
+import testQa.teste.qa.dto.ReportConfig;
+
+
+public class TestGenerator {
+
+	
+	public static void main(String[] args) {
+	  
+		//configurando o relatorio
+		ReportConfig config = new ReportConfig();
+		config.setProjeto("Ativação Simplificada");
+		config.setResponsavel("Sara Takata S2");
+		config.setOutputDir("C:\\Users\\sarat\\Documents\\Provas de vagas\\Alcateia RH\\testeCadGoogle\\teste.qa\\Evidencias");
+		
+		//chamando o gerador de relatorios	
+		ReportGenerator report = new ReportGenerator(config);
+		
+		report.setCasodeTeste("CLR-3134 - Abertura de Tela");
+		
+		//populando os passos
+		for (int y = 1; y <=5; y++) {		
+			report.addStep("abertura de tela "+y, ImageRead.imageToInputStream("C:\\Users\\sarat\\Documents\\Provas de vagas\\Alcateia RH\\testeCadGoogle\\teste.qa\\src\\main\\java\\testQa\\teste\\qa\\report\\image\\google.png"));
+		}
+		report.generator(Status.PASSED.toString());
+	}
+}

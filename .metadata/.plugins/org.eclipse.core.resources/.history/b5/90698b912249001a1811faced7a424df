@@ -1,0 +1,26 @@
+package testQa.google.base;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.log4j.Logger;
+import org.junit.rules.MethodRule;
+import org.junit.runners.model.FrameworkMethod;
+import org.junit.runners.model.Statement;
+
+public class PrintHeader implements MethodRule {
+
+	public static Logger logger = Logger.getLogger(PrintHeader.class);
+
+	public Statement apply(Statement base, FrameworkMethod method, Object target) {
+		logger.info("---------------------------------------------------------");
+		logger.info("");
+		logger.info("* " + new SimpleDateFormat("dd/MM/yyyy HH:mm:ss").format(new Date())
+				+ " EXECUTANDO => " + method.getName());
+		logger.info("");
+		logger.info("---------------------------------------------------------");
+		
+		return base;
+	}
+	
+}

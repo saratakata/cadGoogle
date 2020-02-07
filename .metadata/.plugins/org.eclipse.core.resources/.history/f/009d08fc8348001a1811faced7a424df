@@ -1,0 +1,124 @@
+2017-05-26 14:54:06,217  INFO [main] ---------------------------------------------------------
+2017-05-26 14:54:06,219  INFO [main] 
+2017-05-26 14:54:06,220  INFO [main] * 26/05/2017 14:54:06 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-26 14:54:06,220  INFO [main] 
+2017-05-26 14:54:06,220  INFO [main] ---------------------------------------------------------
+2017-05-26 14:54:06,217  INFO [main] ---------------------------------------------------------
+2017-05-26 14:54:06,219  INFO [main] 
+2017-05-26 14:54:06,220  INFO [main] * 26/05/2017 14:54:06 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-26 14:54:06,220  INFO [main] 
+2017-05-26 14:54:06,220  INFO [main] ---------------------------------------------------------
+2017-05-26 14:54:06,794  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 14:54:06,794  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 14:54:51,859  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145451.png
+2017-05-26 14:54:51,859  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145451.png
+2017-05-26 14:54:52,090  INFO [main] TST - Preenchendo estado
+2017-05-26 14:54:52,090  INFO [main] TST - Preenchendo estado
+2017-05-26 14:54:53,866  INFO [main] TST - Selecionando estado
+2017-05-26 14:54:53,866  INFO [main] TST - Selecionando estado
+2017-05-26 14:54:56,927  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145456.png
+2017-05-26 14:54:56,927  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145456.png
+2017-05-26 14:54:57,048  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-26 14:54:57,048  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-26 14:55:45,697  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145545.png
+2017-05-26 14:55:45,697  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145545.png
+2017-05-26 14:55:45,876  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 14:55:45,876  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 14:55:47,550  INFO [main] TST - Clicando no botão continuar
+2017-05-26 14:55:47,550  INFO [main] TST - Clicando no botão continuar
+2017-05-26 14:55:50,613  INFO [main] TST -Preenchendo Senha
+2017-05-26 14:55:50,613  INFO [main] TST -Preenchendo Senha
+2017-05-26 14:55:51,658  INFO [main] ---------------------------------------------------------
+2017-05-26 14:55:51,658  INFO [main] 
+2017-05-26 14:55:51,658  INFO [main] ---------------------------------------------------------
+2017-05-26 14:55:51,658  INFO [main] 
+2017-05-26 14:55:51,658  INFO [main] * 26/05/2017 14:55:51 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-26 14:55:51,658  INFO [main] 
+2017-05-26 14:55:51,658  INFO [main] ---------------------------------------------------------
+2017-05-26 14:55:51,658  INFO [main] * 26/05/2017 14:55:51 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-26 14:55:51,658  INFO [main] 
+2017-05-26 14:55:51,658  INFO [main] ---------------------------------------------------------
+2017-05-26 14:55:51,673  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 14:55:51,673  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 14:56:34,789  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145634.png
+2017-05-26 14:56:34,789  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145634.png
+2017-05-26 14:56:34,924  INFO [main] TST - Preenchendo estado
+2017-05-26 14:56:34,924  INFO [main] TST - Preenchendo estado
+2017-05-26 14:56:35,501  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 14:56:35,501  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 14:56:36,713  INFO [main] TST - Clicando no botão continuar
+2017-05-26 14:56:36,713  INFO [main] TST - Clicando no botão continuar
+2017-05-26 14:56:39,312  INFO [main] TST -Preenchendo Senha
+2017-05-26 14:56:39,312  INFO [main] TST -Preenchendo Senha
+2017-05-26 14:56:40,954  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145640.png
+2017-05-26 14:56:40,954  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145640.png
+2017-05-26 14:56:41,107  INFO [main] TST - Clicando no botão entrar
+2017-05-26 14:56:41,107  INFO [main] TST - Clicando no botão entrar
+2017-05-26 14:56:44,504  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145644.png
+2017-05-26 14:56:44,504  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-145644.png
+2017-05-26 14:57:29,804  INFO [main] TST - Fechando Banner
+2017-05-26 14:57:29,804  INFO [main] TST - Fechando Banner
+2017-05-26 14:57:32,405  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-05-26 14:57:32,405  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-05-26 15:11:58,327  INFO [main] ---------------------------------------------------------
+2017-05-26 15:11:58,329  INFO [main] 
+2017-05-26 15:11:58,329  INFO [main] * 26/05/2017 15:11:58 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-26 15:11:58,330  INFO [main] 
+2017-05-26 15:11:58,330  INFO [main] ---------------------------------------------------------
+2017-05-26 15:11:58,327  INFO [main] ---------------------------------------------------------
+2017-05-26 15:11:58,329  INFO [main] 
+2017-05-26 15:11:58,329  INFO [main] * 26/05/2017 15:11:58 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-26 15:11:58,330  INFO [main] 
+2017-05-26 15:11:58,330  INFO [main] ---------------------------------------------------------
+2017-05-26 15:11:58,819  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 15:11:58,819  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 15:12:43,430  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151243.png
+2017-05-26 15:12:43,430  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151243.png
+2017-05-26 15:12:43,635  INFO [main] TST - Preenchendo estado
+2017-05-26 15:12:43,635  INFO [main] TST - Preenchendo estado
+2017-05-26 15:12:45,401  INFO [main] TST - Selecionando estado
+2017-05-26 15:12:45,401  INFO [main] TST - Selecionando estado
+2017-05-26 15:12:48,827  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151248.png
+2017-05-26 15:12:48,827  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151248.png
+2017-05-26 15:12:48,997  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-26 15:12:48,997  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-26 15:13:34,880  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151334.png
+2017-05-26 15:13:34,880  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151334.png
+2017-05-26 15:13:35,074  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 15:13:35,074  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 15:13:36,762  INFO [main] TST - Clicando no botão continuar
+2017-05-26 15:13:36,762  INFO [main] TST - Clicando no botão continuar
+2017-05-26 15:13:39,807  INFO [main] TST -Preenchendo Senha
+2017-05-26 15:13:39,807  INFO [main] TST -Preenchendo Senha
+2017-05-26 15:13:40,837  INFO [main] ---------------------------------------------------------
+2017-05-26 15:13:40,837  INFO [main] 
+2017-05-26 15:13:40,837  INFO [main] * 26/05/2017 15:13:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-26 15:13:40,837  INFO [main] 
+2017-05-26 15:13:40,837  INFO [main] ---------------------------------------------------------
+2017-05-26 15:13:40,837  INFO [main] ---------------------------------------------------------
+2017-05-26 15:13:40,837  INFO [main] 
+2017-05-26 15:13:40,837  INFO [main] * 26/05/2017 15:13:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-26 15:13:40,837  INFO [main] 
+2017-05-26 15:13:40,837  INFO [main] ---------------------------------------------------------
+2017-05-26 15:13:40,853  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 15:13:40,853  INFO [main] TST - Abrindo a tela inicial
+2017-05-26 15:13:57,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151357.png
+2017-05-26 15:13:57,198  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151357.png
+2017-05-26 15:13:57,373  INFO [main] TST - Preenchendo estado
+2017-05-26 15:13:57,373  INFO [main] TST - Preenchendo estado
+2017-05-26 15:13:59,467  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 15:13:59,467  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-26 15:14:25,705  INFO [main] TST - Clicando no botão continuar
+2017-05-26 15:14:25,705  INFO [main] TST - Clicando no botão continuar
+2017-05-26 15:14:28,291  INFO [main] TST -Preenchendo Senha
+2017-05-26 15:14:28,291  INFO [main] TST -Preenchendo Senha
+2017-05-26 15:14:29,894  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151429.png
+2017-05-26 15:14:29,894  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151429.png
+2017-05-26 15:14:30,144  INFO [main] TST - Clicando no botão entrar
+2017-05-26 15:14:30,144  INFO [main] TST - Clicando no botão entrar
+2017-05-26 15:14:33,699  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151433.png
+2017-05-26 15:14:33,699  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.26-151433.png
+2017-05-26 15:15:21,798  INFO [main] TST - Fechando Banner
+2017-05-26 15:15:21,798  INFO [main] TST - Fechando Banner
+2017-05-26 15:15:24,345  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-05-26 15:15:24,345  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.

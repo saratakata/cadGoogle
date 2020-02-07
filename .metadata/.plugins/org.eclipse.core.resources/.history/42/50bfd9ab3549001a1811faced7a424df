@@ -1,0 +1,65 @@
+package testQa.google.test;
+
+import testQa.google.base.AbstractTestCase;
+import testQa.google.tela.TelaHome;
+import testQa.google.tela.TelaVerificarTel;
+
+import org.apache.log4j.Logger;
+import org.exolab.castor.types.DateTime;
+import org.junit.Before;
+import org.junit.Test;
+
+import com.ibm.icu.text.SimpleDateFormat;
+
+import static org.junit.Assert.*;
+
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+
+public class preteste extends AbstractTestCase {
+	public static Logger logger = Logger.getLogger(preteste.class);
+	
+	TelaHome telaHome;
+	TelaVerificarTel telaVerificarTel;
+	
+	
+	@Before
+	public void antes() throws InterruptedException{
+		telaHome = new TelaHome(driver);
+		telaHome.abrirSite(url);
+		telaVerificarTel = new TelaVerificarTel(driver);
+
+	}
+	
+	@Test
+	public void testTentarCriarUmaContaTelEUA() throws InterruptedException {		
+		
+		Date data = new Date();
+		SimpleDateFormat formatador = new SimpleDateFormat(“dd/MM/yyyy”)
+        string now = dt.ToString("dd-MM-yyyy-HHmm");
+
+        Report report = new Report();
+        report.projectName = "Projeto Cota Z";
+        report.sprint = "3";
+        report.testCase = System.Reflection.MethodBase.GetCurrentMethod().Name;
+        //report.userStories = driver.Url;
+        report.status = "Reprovado";
+        report.execDate = now;
+        report.reportDirectory = Context.Path_evidencias;
+        
+		telaHome.preencherNome("Lirio");
+		telaHome.preencherSobreNome("do Bosque");
+		telaHome.preencherUserName("LiriodoBosqu3");
+		telaHome.preencherSenha("Test@666");
+		telaHome.preencherConfirmarSenha("Test@666");
+		telaHome.selecionarProximo();
+		telaVerificarTel.informarPais("+1");
+		telaVerificarTel.preencherTel("9993888888");
+		telaVerificarTel.selecionarProximo();
+		assertTrue(telaVerificarTel.validarMsgErro().contains("Este formato de número de telefone não é válido. Verifique o país e o número." ));
+		
+	}	
+	
+	
+}

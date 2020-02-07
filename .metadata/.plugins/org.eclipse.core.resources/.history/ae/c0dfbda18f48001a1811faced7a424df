@@ -1,0 +1,29 @@
+package testQa.google.tela;
+
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+
+
+
+public class TelaHome extends AbstractTela {
+
+	public static Logger logger = Logger.getLogger(TelaHome.class);
+	
+	public TelaHome(WebDriver driver) {
+		super(driver);
+		driver.manage().timeouts().implicitlyWait(2000, TimeUnit.MILLISECONDS);
+	}
+	
+	public void abrirSite(String url) {
+		driver.get(url);
+	}
+
+	public void selecionarCrieUmaConta() {
+		driver.findElement(By.xpath("/html/body/div[2]/div[1]/div[4]/ul[1]/li[3]/a")).click();		
+	}	
+	
+}

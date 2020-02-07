@@ -1,0 +1,60 @@
+package testQa.teste.qa.report;
+
+import java.io.Serializable;
+import java.util.List;
+public class TestCase implements Serializable {
+
+	private static final long serialVersionUID = 7944514266528757334L;
+	private Integer id;
+	private String name;
+	private String status;
+	
+	private List<Step> steps;
+	
+	public TestCase(){}
+	
+	public TestCase(Integer id, String name, String status, List<Step> steps)
+	{
+		this.id = id;
+		this.name = name;
+		this.status = status;
+		this.steps = steps;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getStatus() {
+		return status;
+	}
+
+	public void setStatus(String status) {
+		this.status = status;
+	}
+
+	public List<Step> getSteps() {
+		return steps;
+	}
+
+	public void setSteps(List<Step> steps) {
+		this.steps = steps;
+	}
+
+	public static long getSerialversionuid() {
+		return serialVersionUID;
+	}
+	
+}

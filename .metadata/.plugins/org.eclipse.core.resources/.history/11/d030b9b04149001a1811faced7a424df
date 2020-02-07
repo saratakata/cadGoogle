@@ -1,0 +1,46 @@
+package testQa.google.base;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+
+public class Screenshot {
+	
+	private WebDriver driver = null;
+	
+	private WebDriver getDriver() {
+		return driver;
+	}
+
+	private void setDriver(WebDriver driver) {
+		this.driver = driver;
+	}
+	
+	public Screenshot( WebDriver driver)
+	{
+		setDriver(driver);
+	}
+	
+	
+	/**
+	 * Tira o 'print screen' da tela
+	 * 
+	 */
+	public byte[] getScreenshot()
+	{
+		byte[] byteArray = null;
+		
+		if(getDriver()!=null){				
+						
+			byteArray = ((TakesScreenshot)getDriver()).getScreenshotAs(OutputType.BYTES);
+			
+		}
+		return byteArray;
+	}
+
+}

@@ -1,0 +1,10 @@
+package testQa.google.base;
+
+public class Report {
+//	 public String projectName { get; set; } = "";
+//     public String status { get; set; } = "";
+//     public String testCase { get; set; } = "";
+//     public String execDate { get; set; } = "";
+//     public String reportDirectory { get; set; } = "";
+//     public List<Step> steps { get; set; } = new List<Step>();
+}

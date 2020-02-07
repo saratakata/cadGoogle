@@ -1,0 +1,63 @@
+package testQa.google.test;
+
+import static org.junit.Assert.assertTrue;
+
+import org.apache.log4j.Logger;
+import org.junit.Before;
+import org.junit.Test;
+
+import testQa.google.base.AbstractTestCase;
+import testQa.google.base.Screenshot;
+import testQa.google.tela.TelaHome;
+import testQa.google.tela.TelaVerificarTel;
+import testQa.teste.qa.ReportGenerator;
+import testQa.teste.qa.dto.ReportConfig;
+import testQa.teste.qa.utils.Utils;
+
+public class preteste extends AbstractTestCase {
+	public static Logger logger = Logger.getLogger(preteste.class);
+	
+	TelaHome telaHome;
+	TelaVerificarTel telaVerificarTel;
+	
+	
+	@Before
+	public void antes() throws InterruptedException{
+		telaHome = new TelaHome(driver);
+		telaHome.abrirSite(url);
+		telaVerificarTel = new TelaVerificarTel(driver);
+
+	}
+	
+	@Test
+	public void tentarCriarUmaContaTelEUA() throws InterruptedException {		
+		
+        //configurando o relatorio
+        ReportConfig config = new ReportConfig();
+      	config.setProjeto("Teste QA");
+      	config.setResponsavel("Sara Takata");
+      	config.setOutputDir(Utils.canonicalPath().concat("/Evidencias/"));
+      		
+      	//chamando o gerador de relatorios	
+      	ReportGenerator report = new ReportGenerator(config);
+      	Screenshot ss = new Screenshot(driver);
+      		
+      	report.setCasodeTeste(Thread.currentThread().getStackTrace()[1].getMethodName());
+      		
+		telaHome.preencherNome("Lirio");		
+		telaHome.preencherSobreNome("do Bosque");
+		telaHome.preencherUserName("LiriodoBosqu3");
+		telaHome.preencherSenha("Test@666");
+		telaHome.preencherConfirmarSenha("Test@666");
+		report.addStep("Preenchendo dados", Utils.getScreenshot(driver));
+		telaHome.selecionarProximo();
+		telaVerificarTel.informarPais("+1");
+		telaVerificarTel.preencherTel("9993888888");
+		telaVerificarTel.selecionarProximo();
+		assertTrue(telaVerificarTel.validarMsgErro().contains("Este formato de número de telefone não é válido. Verifique o país e o número." ));
+		
+		
+	}	
+	
+	
+}

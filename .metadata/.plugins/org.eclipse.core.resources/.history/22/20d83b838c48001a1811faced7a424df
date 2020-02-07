@@ -1,0 +1,79 @@
+package testQa.google.base;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Properties;
+
+import org.apache.log4j.Logger;
+
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.Ignore;
+import org.junit.Rule;
+import org.junit.Test;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+
+import java.util.Properties;
+
+
+public abstract class AbstractTestCase {
+
+	public static Logger logger = Logger.getLogger(AbstractTestCase.class);
+	protected static WebDriver driver;
+	
+	public static String deviceName;
+	public static String url;
+	public static String loginPf;
+	public static String senhaPf;
+	
+	
+	
+	@BeforeClass
+	public static void beforeClass() throws Exception {	
+		
+		
+		
+		Properties prop = getProp();
+		
+		deviceName = prop.getProperty("deviceName");
+		url = prop.getProperty("URL");		
+		System.out.println("URL" + url);
+		
+		logger.info("TST - Abrindo o browser...");
+		DesiredCapabilities capabilities = DesiredCapabilities.chrome();
+	    System.setProperty("webdriver.chrome.driver", "./browser/chromedriver.exe");
+	    driver = new ChromeDriver(capabilities);
+	    driver.manage().window().maximize();
+				
+	}
+	 
+	public static Properties getProp() throws IOException {
+		Properties props = new Properties();
+		FileInputStream file = new FileInputStream(
+				"./properties/acesso.properties");
+		props.load(file);
+		return props;
+
+	}
+
+		
+
+	/*
+	@AfterClass
+	public static void afterClass() throws Exception {
+		if (driver != null) {
+			logger.info("TST - Fechando o browser...");
+			driver.close();
+			driver.quit();
+		}
+	}*/
+	
+}

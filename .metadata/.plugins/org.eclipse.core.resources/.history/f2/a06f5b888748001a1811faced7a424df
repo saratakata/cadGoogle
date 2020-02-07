@@ -1,0 +1,40 @@
+package testQa.google.tela;
+
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import vivo.mobile.base.AbstractTestCase;
+
+public class AbstractTela {
+
+	public static Logger logger = Logger.getLogger(AbstractTela.class);
+	protected WebDriver driver;
+	public static final int TIMEOUT = 10;
+	public static String TELA_HOME_URL = 
+			AbstractTestCase.url;
+//			"https://hml1036-meuvivo.vivo.com.br/meuvivoR10";
+//			 "http://hml1036-www.vivo.com.br";
+//			  "https://hml1036-meuvivoempresas.vivo.com.br/meuvivoempresas";
+	
+			
+
+	public AbstractTela(WebDriver driver) {
+		this.driver = driver;
+	}
+		
+	protected boolean isTextPresent(String validParameter) {
+		List<WebElement> elements = driver.findElements(By.partialLinkText(validParameter));
+		if (elements.isEmpty() || (elements == null)) {
+			logger.info("TST - '" + validParameter + "' n�o encontrado!");
+			return false;
+		} else {
+			logger.info("TST - '" + validParameter + "' est� presente!");
+			return true;
+		}
+
+	}
+}

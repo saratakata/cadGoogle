@@ -1,0 +1,78 @@
+package br.com.vivo.test;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.OutputStream;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+
+import net.sf.jasperreports.engine.JRException;
+import net.sf.jasperreports.engine.JasperExportManager;
+import net.sf.jasperreports.engine.JasperFillManager;
+import net.sf.jasperreports.engine.JasperPrint;
+import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
+
+public class ReportGenerator {
+
+	public static void main(String[] args) {
+	  
+		try {
+			/*O que falta fazer:
+			 * - ajustar/refazer os templates jasper
+			 * - ajustar os objetos para refletirem os casos de teste
+			 * - Passar os valores dos cabeçalhos
+			 * - remover tudo que está fixo
+			 * - adicionar no pacote essa nova estrutura
+			 * - transformar essa classe em uma fábrica de relatórios
+			 * 
+			 * e oiutras coisinhas mais.... 
+			 */
+			
+			//passando os parametros do cabeçalho
+			Map parameters = new HashMap();
+	        parameters.put("titulo", "Meu Vivo");
+	        parameters.put("subtitulo", "meu querido relatorio");
+			
+			Collection<TestCase> testCases = new LinkedList<TestCase>();
+			for(int x=1; x<=5; x++ ){
+	    
+				TestCase testcase = new TestCase();
+	    
+				List<Step> stepList = new ArrayList<Step>();
+	    
+				testcase.setId(x);
+				testcase.setName("caso de teste:"+x);
+				testcase.setStatus("passou");
+	    
+				for (int y = 1; y <=5; y++) {
+					Step step = new Step();
+					step.setId(y);
+					step.setDescription("descricao numero "+y);
+					step.setEvid(ImageRead.imageToInputStream("/home/ademas/Documentos/Cazul.png"));
+					step.setStatus("passou");
+					stepList.add(step);
+				}
+				testcase.setSteps(stepList);
+				testCases.add(testcase);
+			}
+			
+			JasperPrint p = JasperFillManager.fillReport(ReportGenerator.class.getResourceAsStream("report/report_testecase.jasper"),parameters, new JRBeanCollectionDataSource(testCases));
+			JasperExportManager.exportReportToPdfStream(p,(OutputStream) new FileOutputStream("/home/ademas/Documentos/report.pdf"));
+			System.out.println("Report generated!");
+	   
+		} catch (JRException e) {
+			e.printStackTrace();
+			System.out.println("Error in ireport");
+		} catch (FileNotFoundException e) {
+		   System.out.println("File not found");
+		   e.printStackTrace();
+		}catch(Exception e){
+			e.printStackTrace();
+			System.out.println("General error");
+		}
+	}
+}

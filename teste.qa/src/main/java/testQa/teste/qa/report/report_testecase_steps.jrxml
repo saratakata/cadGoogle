@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report_testecase_steps" language="groovy" pageWidth="572" pageHeight="752" columnWidth="555" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" uuid="45257566-8ea6-459a-b2f0-e84bd50b23a0">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<field name="description" class="java.lang.String">
+		<fieldDescription><![CDATA[description]]></fieldDescription>
+	</field>
+	<field name="evid" class="java.io.InputStream">
+		<fieldDescription><![CDATA[evid]]></fieldDescription>
+	</field>
+	<field name="id" class="java.lang.Integer">
+		<fieldDescription><![CDATA[id]]></fieldDescription>
+	</field>
+	<field name="status" class="java.lang.String">
+		<fieldDescription><![CDATA[status]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<detail>
+		<band height="151" splitType="Stretch">
+			<staticText>
+				<reportElement x="133" y="30" width="36" height="20" uuid="9ff8898c-df40-495a-9cd1-caf2da8bac33"/>
+				<text><![CDATA[Passo:]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="169" y="30" width="48" height="20" uuid="c231f54f-67b8-4d6f-bfe9-d062b9efccfa"/>
+				<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="217" y="30" width="59" height="20" uuid="2afed96c-abc4-420d-838f-e5f16f4d88fa"/>
+				<text><![CDATA[descrição:]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="282" y="30" width="152" height="20" uuid="4687bf58-50b5-4088-8e77-8057619e785a"/>
+				<textFieldExpression><![CDATA[$F{description}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="133" y="50" width="62" height="20" uuid="aeebbf85-f302-4703-a9ae-a1c019b8cdd3"/>
+				<text><![CDATA[evidência:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="434" y="30" width="38" height="20" uuid="66bb909e-6d43-460d-bc9b-0c28f3c1993e"/>
+				<text><![CDATA[status]]></text>
+			</staticText>
+			<image>
+				<reportElement x="195" y="50" width="377" height="101" uuid="b0191749-af87-4739-88ff-c05163a9edaa"/>
+				<imageExpression><![CDATA[$F{evid}]]></imageExpression>
+			</image>
+			<textField>
+				<reportElement x="472" y="30" width="100" height="20" uuid="d58c1019-eb84-4b30-93bd-72b5d5f164af"/>
+				<textFieldExpression><![CDATA[$F{status}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>

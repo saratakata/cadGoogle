@@ -1,0 +1,40 @@
+2018-02-01 11:04:54,017  INFO [main] ---------------------------------------------------------
+2018-02-01 11:04:54,029  INFO [main] 
+2018-02-01 11:04:54,029  INFO [main] * 01/02/2018 11:04:54 EXECUTANDO => testValidarTelaHomeContole
+2018-02-01 11:04:54,017  INFO [main] ---------------------------------------------------------
+2018-02-01 11:04:54,034  INFO [main] 
+2018-02-01 11:04:54,034  INFO [main] ---------------------------------------------------------
+2018-02-01 11:04:54,029  INFO [main] 
+2018-02-01 11:04:54,029  INFO [main] * 01/02/2018 11:04:54 EXECUTANDO => testValidarTelaHomeContole
+2018-02-01 11:04:54,034  INFO [main] 
+2018-02-01 11:04:54,034  INFO [main] ---------------------------------------------------------
+2018-02-01 11:04:54,051  INFO [main] TST - Abrindo a tela inicial
+2018-02-01 11:04:54,051  INFO [main] TST - Abrindo a tela inicial
+2018-02-01 11:05:03,833  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110503.png
+2018-02-01 11:05:03,833  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110503.png
+2018-02-01 11:05:04,254  INFO [main] TST - Preenchendo estado
+2018-02-01 11:05:04,254  INFO [main] TST - Preenchendo estado
+2018-02-01 11:05:04,611  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110504.png
+2018-02-01 11:05:04,611  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110504.png
+2018-02-01 11:05:05,020  INFO [main] TST - Selecionando estado
+2018-02-01 11:05:05,020  INFO [main] TST - Selecionando estado
+2018-02-01 11:05:13,683  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2018-02-01 11:05:13,683  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2018-02-01 11:05:16,308  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110516.png
+2018-02-01 11:05:16,308  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110516.png
+2018-02-01 11:05:16,734  INFO [main] TST - Preencher Login 
+2018-02-01 11:05:16,734  INFO [main] TST - Preencher Login 
+2018-02-01 11:05:16,956  INFO [main] TST -Preenchendo Senha
+2018-02-01 11:05:16,956  INFO [main] TST -Preenchendo Senha
+2018-02-01 11:05:17,108  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110517.png
+2018-02-01 11:05:17,108  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110517.png
+2018-02-01 11:05:19,532  INFO [main] TST - Clicando no botão de login
+2018-02-01 11:05:19,532  INFO [main] TST - Clicando no botão de login
+2018-02-01 11:05:19,635  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110519.png
+2018-02-01 11:05:19,635  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110519.png
+2018-02-01 11:05:22,035  INFO [main] TST - Fechando Banner
+2018-02-01 11:05:22,035  INFO [main] TST - Fechando Banner
+2018-02-01 11:05:50,473  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110550.png
+2018-02-01 11:05:50,473  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110550.png
+2018-02-01 11:05:53,226  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110553.png
+2018-02-01 11:05:53,226  INFO [main] Screenshot: C:\Teste_Ambiente\integration-test\Evidencias\testValidarTelaHomeContole\screenshot-2018.02.01-110553.png

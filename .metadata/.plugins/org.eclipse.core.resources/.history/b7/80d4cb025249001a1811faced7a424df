@@ -1,0 +1,54 @@
+package testQa.google.tela;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class TelaFakeName {
+	
+	private WebDriver driver;
+	
+	public TelaFakeName(WebDriver webdriver)
+	{
+		this.driver = webdriver;
+	}
+	
+	public void waitButton()
+	{
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(By.id("genbtn")));
+	}
+	
+	public void clickGenerate()
+	{
+		driver.findElement(By.id("genbtn")).click();
+	}
+	
+	public String getNome()
+	{
+		return driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[1]/h3")).getText();	
+	}
+	
+	/*public Integer getCodigoPais()
+	{
+		return Integer.parseInt(driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[4]/dd/text()")).getText());	
+	}
+	*/
+	public String getFone()
+	{
+		System.out.println("driver" + driver.findElement(By.xpath("//*[@id='details']/div[2]/div[2]/div/div[2]/dl[3]/dd/text()")).getText());
+		return "" ;
+				//driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[3]/dd/text()")).getText();	
+	}
+	
+	public String getDataNascimento()
+	{
+		
+		return driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[5]/dd")).getText();	
+	}
+
+	
+	
+}

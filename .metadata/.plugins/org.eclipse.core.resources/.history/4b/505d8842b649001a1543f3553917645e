@@ -1,0 +1,170 @@
+package testQa.google.test;
+
+import static org.junit.Assert.assertTrue;
+
+import java.util.List;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import testQa.google.base.AbstractTestCase;
+import testQa.google.base.Screenshot;
+import testQa.google.tela.TelaHome;
+import testQa.google.tela.TelaVerificarTel;
+import testQa.teste.qa.GeraMassa;
+import testQa.teste.qa.ReportGenerator;
+import testQa.teste.qa.Status;
+import testQa.teste.qa.dto.Pessoa;
+import testQa.teste.qa.dto.ReportConfig;
+import testQa.teste.qa.utils.Utils;
+
+public class preteste extends AbstractTestCase {
+	
+
+	TelaHome telaHome;
+	TelaVerificarTel telaVerificarTel;
+	private static List<Pessoa> dados ;
+
+	@BeforeClass
+	public static void initialize() throws InterruptedException {
+		//Gerando os dados e armazenando em csv para conferencias futuras
+		GeraMassa gm = new GeraMassa();
+    	gm.getGeradordeNome();
+    	
+    	//Lendo o csv para utilizar nos testes abaixo
+    	dados = Utils.leArquivoCSV(gm.getPath()+"/massa/massa.csv");
+    	
+	}
+	
+	@Before
+	public void antes() throws InterruptedException {
+		telaHome = new TelaHome(driver);
+		telaHome.abrirSite(url);
+		telaVerificarTel = new TelaVerificarTel(driver);
+	}
+
+	@Test
+	public void tentarCriarUmaContaTelEUA() throws InterruptedException {
+		
+		// configurando o relatorio
+		ReportConfig config = new ReportConfig();
+		config.setProjeto("Teste QA");
+		config.setResponsavel("Sara Takata");
+		config.setOutputDir(Utils.canonicalPath().concat("/Evidencias/"));
+
+		// chamando o gerador de relatorios
+		ReportGenerator report = new ReportGenerator(config);
+		Screenshot ss = new Screenshot(driver);
+
+		report.setCasodeTeste(Thread.currentThread().getStackTrace()[1].getMethodName());
+		try {
+			String senha = Utils.gerSenha();
+			telaHome.preencherNome(dados.get(0).getNome());
+			telaHome.preencherSobreNome(dados.get(0).getSobrenome());
+			telaHome.preencherUserName(Utils.removeAcentos(dados.get(0).getNome()+dados.get(0).getSobrenome())+System.currentTimeMillis());
+			telaHome.preencherSenha(senha);
+			telaHome.preencherConfirmarSenha(senha);
+			report.addStep("Preenchendo dados", ss.getScreenshot());
+			telaHome.selecionarProximo();
+			report.addStep("Após preencher os dados sistema exibe a tela para informar Telefone", ss.getScreenshot());
+			telaVerificarTel.informarPais("+1");
+			telaVerificarTel.preencherTel(dados.get(0).getTelefone());
+			report.addStep("Preenchendo Telefone", ss.getScreenshot());
+			telaVerificarTel.selecionarProximo();
+			report.addStep("Mensagem  de erro pois os dados estão incorretos", ss.getScreenshot());
+			assertTrue(telaVerificarTel.validarMsgErro()
+					.contains("Este formato de número de telefone não é válido. Verifique o país e o número."));
+
+			report.generator(Status.PASSED.toString());
+		} catch (Exception e) {
+			report.addStep("Evidencia de erro", ss.getScreenshot());
+			report.generator(Status.FAILED.toString());
+			assertTrue(false);
+		}
+	}
+	
+	@Test
+	public void tentarCriarUmaContaTelAustralia() throws InterruptedException {
+		
+		// configurando o relatorio
+		ReportConfig config = new ReportConfig();
+		config.setProjeto("Teste QA");
+		config.setResponsavel("Sara Takata");
+		config.setOutputDir(Utils.canonicalPath().concat("/Evidencias/"));
+
+		// chamando o gerador de relatorios
+		ReportGenerator report = new ReportGenerator(config);
+		Screenshot ss = new Screenshot(driver);
+
+		report.setCasodeTeste(Thread.currentThread().getStackTrace()[1].getMethodName());
+		try {
+			String senha = Utils.gerSenha();
+			telaHome.preencherNome(dados.get(1).getNome());
+			telaHome.preencherSobreNome(dados.get(1).getSobrenome());
+			telaHome.preencherUserName(Utils.removeAcentos(dados.get(1).getNome()+dados.get(1).getSobrenome())+System.currentTimeMillis());
+			telaHome.preencherSenha(senha);
+			telaHome.preencherConfirmarSenha(senha);
+			report.addStep("Preenchendo dados", ss.getScreenshot());
+			telaHome.selecionarProximo();
+			report.addStep("Após preencher os dados sistema exibe a tela para informar Telefone", ss.getScreenshot());
+			telaVerificarTel.informarPais("+"+ dados.get(0).getCodigoPais());
+			telaVerificarTel.preencherTel(dados.get(1).getTelefone());
+			report.addStep("Preenchendo Telefone", ss.getScreenshot());
+			telaVerificarTel.selecionarProximo();
+			report.addStep("Mensagem  de erro pois os dados estão incorretos", ss.getScreenshot());
+			assertTrue(telaVerificarTel.validarMsgErro()
+					.contains("Este formato de número de telefone não é válido. Verifique o país e o número."));
+
+			report.generator(Status.PASSED.toString());
+		} catch (Exception e) {
+			report.addStep("Evidencia de erro", ss.getScreenshot());
+			report.generator(Status.FAILED.toString());
+			assertTrue(false);
+		}
+	}
+
+	@Test
+	public void tentarCriarUmaContaTelAlemanha() throws InterruptedException {
+		
+		// configurando o relatorio
+		ReportConfig config = new ReportConfig();
+		config.setProjeto("Teste QA");
+		config.setResponsavel("Sara Takata");
+		config.setOutputDir(Utils.canonicalPath().concat("/Evidencias/"));
+
+		// chamando o gerador de relatorios
+		ReportGenerator report = new ReportGenerator(config);
+		Screenshot ss = new Screenshot(driver);
+
+		report.setCasodeTeste(Thread.currentThread().getStackTrace()[1].getMethodName());
+		try {
+			String senha = Utils.gerSenha();
+			telaHome.preencherNome(dados.get(2).getNome());
+			telaHome.preencherSobreNome(dados.get(2).getSobrenome());
+			telaHome.preencherUserName(Utils.removeAcentos(dados.get(2).getNome()+dados.get(2).getSobrenome())+System.currentTimeMillis());
+			telaHome.preencherSenha(senha);
+			telaHome.preencherConfirmarSenha(senha);
+			report.addStep("Preenchendo dados", ss.getScreenshot());
+			telaHome.selecionarProximo();
+			report.addStep("Após preencher os dados sistema exibe a tela para informar Telefone", ss.getScreenshot());
+			telaVerificarTel.informarPais("+"+ dados.get(1).getCodigoPais());
+			telaVerificarTel.preencherTel(dados.get(2).getTelefone());
+			report.addStep("Preenchendo Telefone", ss.getScreenshot());
+			telaVerificarTel.selecionarProximo();
+			report.addStep("Mensagem  de erro pois os dados estão incorretos", ss.getScreenshot());
+			assertTrue(telaVerificarTel.validarMsgErro()
+					.contains("Ocorreu um problema ao confirmar seu número de telefone."));
+
+			report.generator(Status.PASSED.toString());
+		} finally  {
+			System.out.println("PASOOU");
+			report.addStep("Evidencia final", ss.getScreenshot());
+			report.generator(Status.FAILED.toString());
+			assertTrue(false);
+		}
+		
+	}
+	
+}

@@ -1,0 +1,99 @@
+package testQa.teste.qa.dto;
+
+import java.util.Calendar;
+
+public class Pessoa {
+	
+	private String nome;
+	
+	private String pais;
+	
+	private String genero;
+	
+	private String sobrenome;
+	
+	private DTNascimento dtNascimento;
+	
+	private String senha;
+	
+	private String telefone;
+	
+	private Integer codigoPais;
+	
+	private String config;
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getGenero() {
+		return genero;
+	}
+
+	public void setGenero(String genero) {
+		this.genero = genero;
+	}
+
+	public String getSobrenome() {
+		return sobrenome;
+	}
+
+	public void setSobrenome(String sobrenome) {
+		this.sobrenome = sobrenome;
+	}
+
+	public DTNascimento getDtNascimento() {
+		return dtNascimento;
+	}
+
+	public void setDtNascimento(DTNascimento dtNascimento) {
+		this.dtNascimento = dtNascimento;
+	}
+
+	public String getSenha() {
+		return senha;
+	}
+
+	public void setSenha(String senha) {
+		this.senha = senha;
+	}
+
+	public String getTelefone() {
+		return telefone;
+	}
+
+	public void setTelefone(String telefone) {
+		this.telefone = telefone;
+	}
+
+	public String getPais() {
+		return pais;
+	}
+
+	public void setPais(String pais) {
+		this.pais = pais;
+	}
+
+	public String getConfig() {
+		return config;
+	}
+
+	public void setConfig(String config) {
+		this.config = config;
+	}
+
+	public Integer getCodigoPais() {
+		return codigoPais;
+	}
+
+	public void setCodigoPais(Integer codigoPais) {
+		this.codigoPais = codigoPais;
+	}
+
+	
+	
+}

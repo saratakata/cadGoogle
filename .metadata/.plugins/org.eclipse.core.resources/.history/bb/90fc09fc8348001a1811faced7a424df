@@ -1,0 +1,533 @@
+2017-05-31 14:45:08,612  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:08,612  INFO [main] 
+2017-05-31 14:45:08,612  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:08,612  INFO [main] 
+2017-05-31 14:45:08,612  INFO [main] * 31/05/2017 14:45:08 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:45:08,612  INFO [main] 
+2017-05-31 14:45:08,612  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:08,612  INFO [main] * 31/05/2017 14:45:08 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:45:08,612  INFO [main] 
+2017-05-31 14:45:08,612  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:13,334  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:45:13,334  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:45:21,754  INFO [main] TST - Fechando o browser...
+2017-05-31 14:45:21,754  INFO [main] TST - Fechando o browser...
+2017-05-31 14:45:24,746  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:24,746  INFO [main] 
+2017-05-31 14:45:24,746  INFO [main] * 31/05/2017 14:45:24 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 14:45:24,746  INFO [main] 
+2017-05-31 14:45:24,746  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:24,746  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:24,746  INFO [main] 
+2017-05-31 14:45:24,746  INFO [main] * 31/05/2017 14:45:24 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 14:45:24,746  INFO [main] 
+2017-05-31 14:45:24,746  INFO [main] ---------------------------------------------------------
+2017-05-31 14:45:29,089  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:45:29,089  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:45:30,690  INFO [main] TST - Fechando o browser...
+2017-05-31 14:45:30,690  INFO [main] TST - Fechando o browser...
+2017-05-31 14:46:53,671  INFO [main] ---------------------------------------------------------
+2017-05-31 14:46:53,671  INFO [main] 
+2017-05-31 14:46:53,671  INFO [main] ---------------------------------------------------------
+2017-05-31 14:46:53,671  INFO [main] 
+2017-05-31 14:46:53,671  INFO [main] * 31/05/2017 14:46:53 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:46:53,671  INFO [main] 
+2017-05-31 14:46:53,671  INFO [main] * 31/05/2017 14:46:53 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:46:53,671  INFO [main] ---------------------------------------------------------
+2017-05-31 14:46:53,671  INFO [main] 
+2017-05-31 14:46:53,671  INFO [main] ---------------------------------------------------------
+2017-05-31 14:46:58,288  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:46:58,288  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:47:34,117  INFO [main] ---------------------------------------------------------
+2017-05-31 14:47:34,117  INFO [main] ---------------------------------------------------------
+2017-05-31 14:47:34,117  INFO [main] 
+2017-05-31 14:47:34,117  INFO [main] 
+2017-05-31 14:47:34,117  INFO [main] * 31/05/2017 14:47:34 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:47:34,117  INFO [main] 
+2017-05-31 14:47:34,117  INFO [main] * 31/05/2017 14:47:34 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:47:34,117  INFO [main] 
+2017-05-31 14:47:34,117  INFO [main] ---------------------------------------------------------
+2017-05-31 14:47:34,117  INFO [main] ---------------------------------------------------------
+2017-05-31 14:47:39,335  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:47:39,335  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:48:36,887  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:36,887  INFO [main] 
+2017-05-31 14:48:36,887  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:36,887  INFO [main] 
+2017-05-31 14:48:36,887  INFO [main] * 31/05/2017 14:48:36 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:48:36,887  INFO [main] 
+2017-05-31 14:48:36,887  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:36,887  INFO [main] * 31/05/2017 14:48:36 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 14:48:36,887  INFO [main] 
+2017-05-31 14:48:36,887  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:41,666  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:48:41,666  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:48:45,700  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-144845.png
+2017-05-31 14:48:45,700  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-144845.png
+2017-05-31 14:48:45,727 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir68344_14733}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f1075ca10000cac62117fd3ffb880226
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsqGestor(preteste.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 14:48:45,740  INFO [main] TST - Preenchendo estado
+2017-05-31 14:48:45,727 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir68344_14733}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f1075ca10000cac62117fd3ffb880226
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testAcessarMenusLateralEsqGestor(preteste.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 14:48:45,740  INFO [main] TST - Preenchendo estado
+2017-05-31 14:48:46,364  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 14:48:46,364  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 14:48:46,904  INFO [main] TST - Fechando o browser...
+2017-05-31 14:48:46,904  INFO [main] TST - Fechando o browser...
+2017-05-31 14:48:48,955  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:48,955  INFO [main] 
+2017-05-31 14:48:48,955  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:48,955  INFO [main] * 31/05/2017 14:48:48 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 14:48:48,955  INFO [main] 
+2017-05-31 14:48:48,955  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:48,955  INFO [main] 
+2017-05-31 14:48:48,955  INFO [main] * 31/05/2017 14:48:48 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 14:48:48,955  INFO [main] 
+2017-05-31 14:48:48,955  INFO [main] ---------------------------------------------------------
+2017-05-31 14:48:54,224  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 14:48:54,224  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:05:49,039  INFO [main] ---------------------------------------------------------
+2017-05-31 15:05:49,041  INFO [main] 
+2017-05-31 15:05:49,039  INFO [main] ---------------------------------------------------------
+2017-05-31 15:05:49,041  INFO [main] 
+2017-05-31 15:05:49,042  INFO [main] * 31/05/2017 15:05:49 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:05:49,042  INFO [main] 
+2017-05-31 15:05:49,042  INFO [main] * 31/05/2017 15:05:49 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:05:49,042  INFO [main] ---------------------------------------------------------
+2017-05-31 15:05:49,042  INFO [main] 
+2017-05-31 15:05:49,042  INFO [main] ---------------------------------------------------------
+2017-05-31 15:05:54,638  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:05:54,638  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:06:37,581  INFO [main] TST - Fechando o browser...
+2017-05-31 15:06:37,581  INFO [main] TST - Fechando o browser...
+2017-05-31 15:06:40,833  INFO [main] ---------------------------------------------------------
+2017-05-31 15:06:40,833  INFO [main] 
+2017-05-31 15:06:40,834  INFO [main] * 31/05/2017 15:06:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 15:06:40,834  INFO [main] 
+2017-05-31 15:06:40,834  INFO [main] ---------------------------------------------------------
+2017-05-31 15:06:40,833  INFO [main] ---------------------------------------------------------
+2017-05-31 15:06:40,833  INFO [main] 
+2017-05-31 15:06:40,834  INFO [main] * 31/05/2017 15:06:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 15:06:40,834  INFO [main] 
+2017-05-31 15:06:40,834  INFO [main] ---------------------------------------------------------
+2017-05-31 15:06:46,084  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:06:46,084  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:07:35,492  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-150735.png
+2017-05-31 15:07:35,492  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-150735.png
+2017-05-31 15:07:35,686  INFO [main] TST - Preenchendo estado
+2017-05-31 15:07:35,686  INFO [main] TST - Preenchendo estado
+2017-05-31 15:07:37,524  INFO [main] TST - Selecionando estado
+2017-05-31 15:07:37,524  INFO [main] TST - Selecionando estado
+2017-05-31 15:07:42,633  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-150742.png
+2017-05-31 15:07:42,633  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-150742.png
+2017-05-31 15:07:42,827  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-31 15:07:42,827  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-31 15:07:45,348  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:07:45,348  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:07:48,386  INFO [main] TST - Fechando o browser...
+2017-05-31 15:07:48,386  INFO [main] TST - Fechando o browser...
+2017-05-31 15:54:10,494  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:10,494  INFO [main] 
+2017-05-31 15:54:10,494  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:10,494  INFO [main] 
+2017-05-31 15:54:10,494  INFO [main] * 31/05/2017 15:54:10 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:54:10,494  INFO [main] 
+2017-05-31 15:54:10,494  INFO [main] * 31/05/2017 15:54:10 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:54:10,494  INFO [main] 
+2017-05-31 15:54:10,494  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:10,494  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:17,879  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:54:17,879  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:54:21,389  INFO [main] TST - Fechando o browser...
+2017-05-31 15:54:21,389  INFO [main] TST - Fechando o browser...
+2017-05-31 15:54:21,659  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:21,659  INFO [main] 
+2017-05-31 15:54:21,659  INFO [main] * 31/05/2017 15:54:21 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 15:54:21,659  INFO [main] 
+2017-05-31 15:54:21,659  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:38,982  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:38,982  INFO [main] 
+2017-05-31 15:54:38,982  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:38,982  INFO [main] 
+2017-05-31 15:54:38,982  INFO [main] * 31/05/2017 15:54:38 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:54:38,982  INFO [main] 
+2017-05-31 15:54:38,982  INFO [main] * 31/05/2017 15:54:38 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:54:38,982  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:38,982  INFO [main] 
+2017-05-31 15:54:38,982  INFO [main] ---------------------------------------------------------
+2017-05-31 15:54:43,485  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:54:43,485  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:55:24,670  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:24,672  INFO [main] 
+2017-05-31 15:55:24,673  INFO [main] * 31/05/2017 15:55:24 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:55:24,673  INFO [main] 
+2017-05-31 15:55:24,673  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:24,670  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:24,672  INFO [main] 
+2017-05-31 15:55:24,673  INFO [main] * 31/05/2017 15:55:24 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-05-31 15:55:24,673  INFO [main] 
+2017-05-31 15:55:24,673  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:29,823  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155529.png
+2017-05-31 15:55:29,823  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155529.png
+2017-05-31 15:55:30,352  INFO [main] TST - Preenchendo estado
+2017-05-31 15:55:30,352  INFO [main] TST - Preenchendo estado
+2017-05-31 15:55:33,028  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:55:33,028  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:55:34,082  INFO [main] TST - Fechando o browser...
+2017-05-31 15:55:34,082  INFO [main] TST - Fechando o browser...
+2017-05-31 15:55:37,197  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:37,197  INFO [main] 
+2017-05-31 15:55:37,197  INFO [main] * 31/05/2017 15:55:37 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 15:55:37,197  INFO [main] 
+2017-05-31 15:55:37,197  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:37,197  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:37,197  INFO [main] 
+2017-05-31 15:55:37,197  INFO [main] * 31/05/2017 15:55:37 EXECUTANDO => testAcessarMenusLateralEsq
+2017-05-31 15:55:37,197  INFO [main] 
+2017-05-31 15:55:37,197  INFO [main] ---------------------------------------------------------
+2017-05-31 15:55:41,227  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155541.png
+2017-05-31 15:55:41,227  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155541.png
+2017-05-31 15:55:41,399  INFO [main] TST - Preenchendo estado
+2017-05-31 15:55:41,399  INFO [main] TST - Preenchendo estado
+2017-05-31 15:55:42,889  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:55:42,889  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-05-31 15:55:44,691  INFO [main] TST - Fechando o browser...
+2017-05-31 15:55:44,691  INFO [main] TST - Fechando o browser...
+2017-05-31 15:56:55,307  INFO [main] ---------------------------------------------------------
+2017-05-31 15:56:55,307  INFO [main] ---------------------------------------------------------
+2017-05-31 15:56:55,307  INFO [main] 
+2017-05-31 15:56:55,307  INFO [main] 
+2017-05-31 15:56:55,307  INFO [main] * 31/05/2017 15:56:55 EXECUTANDO => testLogar
+2017-05-31 15:56:55,307  INFO [main] 
+2017-05-31 15:56:55,307  INFO [main] * 31/05/2017 15:56:55 EXECUTANDO => testLogar
+2017-05-31 15:56:55,307  INFO [main] ---------------------------------------------------------
+2017-05-31 15:56:55,307  INFO [main] 
+2017-05-31 15:56:55,307  INFO [main] ---------------------------------------------------------
+2017-05-31 15:57:10,182  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:57:10,182  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:57:18,688  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155718.png
+2017-05-31 15:57:18,688  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155718.png
+2017-05-31 15:57:18,711 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir70568_14564}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 17e2efcc2bda30b50ba38ce07e480459
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testLogar(preteste.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 15:57:18,721  INFO [main] TST - Preenchendo estado
+2017-05-31 15:57:18,711 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir70568_14564}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 17e2efcc2bda30b50ba38ce07e480459
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testLogar(preteste.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 15:57:18,721  INFO [main] TST - Preenchendo estado
+2017-05-31 15:57:19,353  INFO [main] TST - Fechando o browser...
+2017-05-31 15:57:19,353  INFO [main] TST - Fechando o browser...
+2017-05-31 15:58:11,345  INFO [main] ---------------------------------------------------------
+2017-05-31 15:58:11,345  INFO [main] 
+2017-05-31 15:58:11,345  INFO [main] ---------------------------------------------------------
+2017-05-31 15:58:11,345  INFO [main] 
+2017-05-31 15:58:11,345  INFO [main] * 31/05/2017 15:58:11 EXECUTANDO => testLogar
+2017-05-31 15:58:11,345  INFO [main] 
+2017-05-31 15:58:11,345  INFO [main] * 31/05/2017 15:58:11 EXECUTANDO => testLogar
+2017-05-31 15:58:11,345  INFO [main] ---------------------------------------------------------
+2017-05-31 15:58:11,345  INFO [main] 
+2017-05-31 15:58:11,345  INFO [main] ---------------------------------------------------------
+2017-05-31 15:58:26,882  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:58:26,882  INFO [main] TST - Abrindo a tela inicial
+2017-05-31 15:58:37,520  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155837.png
+2017-05-31 15:58:37,520  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.31-155837.png
+2017-05-31 15:58:37,547 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir69572_21698}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f95ab90c38916ab1c691f340ff64687d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testLogar(preteste.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 15:58:37,557  INFO [main] TST - Preenchendo estado
+2017-05-31 15:58:37,547 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir69572_21698}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f95ab90c38916ab1c691f340ff64687d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.preteste.testLogar(preteste.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-05-31 15:58:37,557  INFO [main] TST - Preenchendo estado
+2017-05-31 15:58:38,167  INFO [main] TST - Fechando o browser...
+2017-05-31 15:58:38,167  INFO [main] TST - Fechando o browser...

@@ -1,0 +1,117 @@
+package testQa.google.base;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+
+public class Screenshot {
+	
+	private WebDriver driver = null;
+	
+	private Configurations config = null;
+	
+	private String subDir = "";
+	
+	private static int order = 0;
+	
+	
+	private WebDriver getDriver() {
+		return driver;
+	}
+
+	private void setDriver(WebDriver driver) {
+		this.driver = driver;
+	}
+
+	public Configurations getConfig() {
+		return config;
+	}
+
+	public void setConfig(Configurations config) {
+		this.config = config;
+	}
+
+	public String getSubDir() {
+		return subDir;
+	}
+
+	public void setSubDir(String subDir) {
+		this.subDir = subDir;
+	}
+	
+	
+	public static int getOrder() {
+		order++;
+		return order;
+	}
+	
+
+	public Screenshot(Configurations configurations, WebDriver driver)
+	{
+		setConfig(configurations);
+		setDriver(driver);
+	}
+	
+	/**
+	 * Cria o diretorio.
+	 * 
+	 * @param path
+	 */
+	public void dirCreate(String path) {
+        try {
+            File diretorio = new File(path);
+            diretorio.mkdir();
+        } catch (Exception ex) {
+            System.out.println(ex);
+        }
+    }
+	
+	
+	/**
+	 * Formata o nome de arquivo.
+	 * 
+	 * @return
+	 */
+	private String getFormatName()
+	{		
+		String name = getConfig().getDirectory().concat("//").concat(
+						getSubDir()).concat("//").concat(
+						getConfig().getTestCase()).concat("_").concat(
+						getConfig().getBrowser().name()).concat("_").concat(
+						getOrder()+"").concat(".png");
+		
+		return name;
+	}
+	
+	
+	/**
+	 * Tira o 'print screen' da tela
+	 * 
+	 */
+	public byte[] getScreenshot()
+	{
+		byte[] byteArray = null;
+		
+		if(getDriver()!=null){
+					
+			if(getSubDir().equals("")){				
+				SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");			
+				setSubDir(sdf.format(new Date()));
+				dirCreate(getConfig().getDirectory().concat("//").concat(getSubDir()));
+			}
+						
+			File scrFile = ((TakesScreenshot)getDriver()).getScreenshotAs(OutputType.FILE);
+			try {
+				FileUtils.copyFile(scrFile, new File(getFormatName()));
+		        byteArray = FileUtils.readFileToByteArray(scrFile);
+		    } catch (Exception e) { }			
+		}
+		return byteArray;
+	}
+
+}

@@ -1,0 +1,32 @@
+package testQa.google.test;
+
+import java.util.Collection;
+import java.util.LinkedList;
+
+import br.com.acc.claro.test.dto.ReportConfig;
+import br.com.acc.claro.test.dto.Step;
+import br.com.acc.claro.test.utils.Utils;
+
+public class TestGenerator {
+
+	
+	public static void main(String[] args) {
+	  
+		//configurando o relatorio
+		ReportConfig config = new ReportConfig();
+		config.setProjeto("Ativação Simplificada");
+		config.setResponsavel("Sara Takata S2");
+		config.setOutputDir("/home/ademas/Documentos/");
+		
+		//chamando o gerador de relatorios	
+		ReportGenerator report = new ReportGenerator(config);
+		
+		report.setCasodeTeste("CLR-3134 - Abertura de Tela");
+		
+		//populando os passos
+		for (int y = 1; y <=5; y++) {		
+			report.addStep("abertura de tela "+y, ImageRead.imageToInputStream("/home/ademas/Imagens/print.png"));
+		}
+		report.generator(Status.PASSED.toString());
+	}
+}

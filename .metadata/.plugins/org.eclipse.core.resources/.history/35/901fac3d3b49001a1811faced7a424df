@@ -1,0 +1,68 @@
+package testQa.google.base;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+
+public class ScreenshotHandler {
+
+	public static Logger logger = Logger.getLogger(ScreenshotHandler.class);
+	
+	//protected static WebDriver driver;
+	
+/*	public ScreenshotHandler(WebDriver driver) {
+		super();
+		
+	}*/
+	
+/*	protected static void setDriver(WebDriver driver) {
+		ScreenshotHandler.driver = driver;
+	}*/
+	
+	/**
+	 * Salva o screenshot com o nome screenshot-yyyy.MM.dd-HHmmss.png no diretorio
+	 * default configurado no properties.
+	 */
+	public static void takeScreenshot(WebDriver driver) {
+		String folder = Context.getInstance().getProperty("screenshot.directory");
+		takeScreenshot(driver, folder);
+	}
+	
+	/**
+	 * Salva o screenshot com o nome screenshot-yyyy.MM.dd-HHmmss.png no diretorio
+	 * informado.
+	 * @param folderPathToSave Diretorio onde os arquivos serao salvos.
+	 */
+	public static void takeScreenshot(WebDriver driver, final String folderPathToSave) {
+		String fileName = "/screenshot-"
+				+ new SimpleDateFormat("yyyy.MM.dd-HHmmss").format(new Date())
+				+ ".png";
+
+		takeScreenshot(driver, new File(folderPathToSave + fileName));
+	}
+	
+	/**
+	 * Salva o screenshot como o arquivo informado no parametro.
+	 * @param file Arquivo .png onde o screenshot sera salvo.
+	 */
+	public static void takeScreenshot(WebDriver driver, final File fullPathFilePng) {
+		try {
+			
+			logger.info("Screenshot: " + fullPathFilePng.getAbsolutePath());
+					
+			File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+			FileUtils.copyFile(scrFile, fullPathFilePng);
+			
+		} catch (Exception e) {
+			logger.error("Erro ao salvar o screenshot.", e);
+		}
+	}
+	
+}

@@ -1,0 +1,794 @@
+2017-06-08 13:25:19,990  INFO [main] ---------------------------------------------------------
+2017-06-08 13:25:19,992  INFO [main] 
+2017-06-08 13:25:19,990  INFO [main] ---------------------------------------------------------
+2017-06-08 13:25:19,992  INFO [main] 
+2017-06-08 13:25:19,993  INFO [main] * 08/06/2017 13:25:19 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-08 13:25:19,993  INFO [main] 
+2017-06-08 13:25:19,993  INFO [main] * 08/06/2017 13:25:19 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-08 13:25:19,993  INFO [main] ---------------------------------------------------------
+2017-06-08 13:25:19,993  INFO [main] 
+2017-06-08 13:25:19,993  INFO [main] ---------------------------------------------------------
+2017-06-08 13:25:23,114  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:25:23,114  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:26:07,126  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132607.png
+2017-06-08 13:26:07,126  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132607.png
+2017-06-08 13:26:09,884 ERROR [main] Erro ao salvar o screenshot.
+java.lang.RuntimeException: Unexpected result for screenshot command: null
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:329)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.LoginPj.testAcessarMenusLateralEsqGestor(LoginPj.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-06-08 13:26:09,885  INFO [main] TST - Preenchendo estado
+2017-06-08 13:26:09,884 ERROR [main] Erro ao salvar o screenshot.
+java.lang.RuntimeException: Unexpected result for screenshot command: null
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:329)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.LoginPj.testAcessarMenusLateralEsqGestor(LoginPj.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-06-08 13:26:09,885  INFO [main] TST - Preenchendo estado
+2017-06-08 13:26:12,936  INFO [main] ERRO ====> org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.01 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107504_32735}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 15baa99194ffb6db8cd534803cf35e7f
+*** Element info: {Using=id, value=campoRegional}
+2017-06-08 13:26:12,937  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:26:12,936  INFO [main] ERRO ====> org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.01 seconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107504_32735}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 15baa99194ffb6db8cd534803cf35e7f
+*** Element info: {Using=id, value=campoRegional}
+2017-06-08 13:26:12,937  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:26:16,009  INFO [main] ---------------------------------------------------------
+2017-06-08 13:26:16,010  INFO [main] 
+2017-06-08 13:26:16,015  INFO [main] * 08/06/2017 13:26:16 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:26:16,015  INFO [main] 
+2017-06-08 13:26:16,015  INFO [main] ---------------------------------------------------------
+2017-06-08 13:26:16,009  INFO [main] ---------------------------------------------------------
+2017-06-08 13:26:16,010  INFO [main] 
+2017-06-08 13:26:16,015  INFO [main] * 08/06/2017 13:26:16 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:26:16,015  INFO [main] 
+2017-06-08 13:26:16,015  INFO [main] ---------------------------------------------------------
+2017-06-08 13:26:18,443  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:26:18,443  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:26:20,759  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132620.png
+2017-06-08 13:26:20,759  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132620.png
+2017-06-08 13:26:20,766 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107436_490}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6656a4a88f98c2f62b7df9b92700512d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.LoginPj.testAcessarMenusLateralEsq(LoginPj.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-06-08 13:26:20,770  INFO [main] TST - Preenchendo estado
+2017-06-08 13:26:20,766 ERROR [main] Erro ao salvar o screenshot.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107436_490}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6656a4a88f98c2f62b7df9b92700512d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:320)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:50)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:38)
+	at vivo.base.ScreenshotHandler.takeScreenshot(ScreenshotHandler.java:25)
+	at vivo.test.login.LoginPj.testAcessarMenusLateralEsq(LoginPj.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-06-08 13:26:20,770  INFO [main] TST - Preenchendo estado
+2017-06-08 13:26:20,778  INFO [main] ERRO ========> org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107436_490}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6656a4a88f98c2f62b7df9b92700512d
+*** Element info: {Using=id, value=campoRegional}
+2017-06-08 13:26:20,778  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:26:20,778  INFO [main] ERRO ========> org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir107436_490}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6656a4a88f98c2f62b7df9b92700512d
+*** Element info: {Using=id, value=campoRegional}
+2017-06-08 13:26:20,778  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:28:08,542  INFO [main] ---------------------------------------------------------
+2017-06-08 13:28:08,544  INFO [main] 
+2017-06-08 13:28:08,542  INFO [main] ---------------------------------------------------------
+2017-06-08 13:28:08,544  INFO [main] * 08/06/2017 13:28:08 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-08 13:28:08,544  INFO [main] 
+2017-06-08 13:28:08,545  INFO [main] ---------------------------------------------------------
+2017-06-08 13:28:08,544  INFO [main] 
+2017-06-08 13:28:08,544  INFO [main] * 08/06/2017 13:28:08 EXECUTANDO => testAcessarMenusLateralEsqGestor
+2017-06-08 13:28:08,544  INFO [main] 
+2017-06-08 13:28:08,545  INFO [main] ---------------------------------------------------------
+2017-06-08 13:28:12,552  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:28:12,552  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:28:56,305  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132856.png
+2017-06-08 13:28:56,305  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132856.png
+2017-06-08 13:28:56,531  INFO [main] TST - Preenchendo estado
+2017-06-08 13:28:56,531  INFO [main] TST - Preenchendo estado
+2017-06-08 13:28:56,815  INFO [main] TST - Selecionando estado
+2017-06-08 13:28:56,815  INFO [main] TST - Selecionando estado
+2017-06-08 13:29:00,496  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132900.png
+2017-06-08 13:29:00,496  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132900.png
+2017-06-08 13:29:00,684  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:29:00,684  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:29:45,419  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132945.png
+2017-06-08 13:29:45,419  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132945.png
+2017-06-08 13:29:45,591  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:29:45,591  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:29:47,771  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132947.png
+2017-06-08 13:29:47,771  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132947.png
+2017-06-08 13:29:47,977  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:29:47,977  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:29:50,087  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:29:50,087  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:29:50,296  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:29:50,296  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:29:50,449  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132950.png
+2017-06-08 13:29:50,449  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132950.png
+2017-06-08 13:29:50,605  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:29:50,605  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:29:52,707  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132952.png
+2017-06-08 13:29:52,707  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-132952.png
+2017-06-08 13:30:40,514  INFO [main] TST - Fechando Banner Gestor
+2017-06-08 13:30:40,514  INFO [main] TST - Fechando Banner Gestor
+2017-06-08 13:31:25,399  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133125.png
+2017-06-08 13:31:25,399  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133125.png
+2017-06-08 13:31:25,565  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:31:25,565  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:31:27,686  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133127.png
+2017-06-08 13:31:27,686  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133127.png
+2017-06-08 13:31:27,900  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Minha conta' do menu lateral esquerdo.
+2017-06-08 13:31:27,900  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Minha conta' do menu lateral esquerdo.
+2017-06-08 13:32:14,319  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133214.png
+2017-06-08 13:32:14,319  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133214.png
+2017-06-08 13:32:14,508  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:32:14,508  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:32:16,636  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133216.png
+2017-06-08 13:32:16,636  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133216.png
+2017-06-08 13:32:16,798  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-08 13:32:16,798  INFO [main] TST - Selecionando a opção 'Conta digital' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-08 13:33:04,706  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133304.png
+2017-06-08 13:33:04,706  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133304.png
+2017-06-08 13:33:05,017  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:33:05,017  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:33:07,128  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133307.png
+2017-06-08 13:33:07,128  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133307.png
+2017-06-08 13:33:07,415  INFO [main] TST - Selecionando a opção 'Cadastro no Débito Automático' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-08 13:33:07,415  INFO [main] TST - Selecionando a opção 'Cadastro no Débito Automático' no submenu 'Gerencie sua conta' do menu lateral esquerdo.
+2017-06-08 13:33:57,285  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133357.png
+2017-06-08 13:33:57,285  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133357.png
+2017-06-08 13:33:57,475  INFO [main] ---------------------------------------------------------
+2017-06-08 13:33:57,476  INFO [main] 
+2017-06-08 13:33:57,476  INFO [main] * 08/06/2017 13:33:57 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:33:57,476  INFO [main] 
+2017-06-08 13:33:57,477  INFO [main] ---------------------------------------------------------
+2017-06-08 13:33:57,475  INFO [main] ---------------------------------------------------------
+2017-06-08 13:33:57,476  INFO [main] 
+2017-06-08 13:33:57,476  INFO [main] * 08/06/2017 13:33:57 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:33:57,476  INFO [main] 
+2017-06-08 13:33:57,477  INFO [main] ---------------------------------------------------------
+2017-06-08 13:34:00,954  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:34:00,954  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:34:44,459  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133444.png
+2017-06-08 13:34:44,459  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133444.png
+2017-06-08 13:34:44,667  INFO [main] TST - Preenchendo estado
+2017-06-08 13:34:44,667  INFO [main] TST - Preenchendo estado
+2017-06-08 13:34:45,308  INFO [main] TST - Selecionando estado
+2017-06-08 13:34:45,308  INFO [main] TST - Selecionando estado
+2017-06-08 13:34:48,943  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133448.png
+2017-06-08 13:34:48,943  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133448.png
+2017-06-08 13:34:49,114  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:34:49,114  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:35:33,909  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133533.png
+2017-06-08 13:35:33,909  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133533.png
+2017-06-08 13:35:34,096  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:35:34,096  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:35:34,289  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:35:34,289  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:35:36,405  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:35:36,405  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:35:36,604  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133536.png
+2017-06-08 13:35:36,604  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133536.png
+2017-06-08 13:35:36,747  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:35:36,747  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:35:38,859  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133538.png
+2017-06-08 13:35:38,859  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133538.png
+2017-06-08 13:36:25,009  INFO [main] TST - Fechando Banner
+2017-06-08 13:36:25,009  INFO [main] TST - Fechando Banner
+2017-06-08 13:36:27,078  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir98116_28613}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5f61ae0911044c6a805759e4588c874
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 13:36:27,078  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:36:27,078  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir98116_28613}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5f61ae0911044c6a805759e4588c874
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 13:36:27,078  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:36:32,208  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133632.png
+2017-06-08 13:36:32,208  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133632.png
+2017-06-08 13:36:32,378  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.
+2017-06-08 13:36:32,378  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.
+2017-06-08 13:36:40,436  INFO [main] ---------------------------------------------------------
+2017-06-08 13:36:40,436  INFO [main] ---------------------------------------------------------
+2017-06-08 13:36:40,438  INFO [main] 
+2017-06-08 13:36:40,438  INFO [main] 
+2017-06-08 13:36:40,438  INFO [main] * 08/06/2017 13:36:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:36:40,438  INFO [main] 
+2017-06-08 13:36:40,438  INFO [main] * 08/06/2017 13:36:40 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 13:36:40,438  INFO [main] ---------------------------------------------------------
+2017-06-08 13:36:40,438  INFO [main] 
+2017-06-08 13:36:40,438  INFO [main] ---------------------------------------------------------
+2017-06-08 13:36:43,675  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:36:43,675  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 13:37:30,581  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133730.png
+2017-06-08 13:37:30,581  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133730.png
+2017-06-08 13:37:30,811  INFO [main] TST - Preenchendo estado
+2017-06-08 13:37:30,811  INFO [main] TST - Preenchendo estado
+2017-06-08 13:37:31,059  INFO [main] TST - Selecionando estado
+2017-06-08 13:37:31,059  INFO [main] TST - Selecionando estado
+2017-06-08 13:37:34,865  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133734.png
+2017-06-08 13:37:34,865  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133734.png
+2017-06-08 13:37:35,025  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:37:35,025  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 13:37:37,110  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133737.png
+2017-06-08 13:37:37,110  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133737.png
+2017-06-08 13:38:19,315  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:38:19,315  INFO [main] TST -Preenchendo Login (CNPJ)
+2017-06-08 13:38:19,586  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:38:19,586  INFO [main] TST - Clicando no botão continuar
+2017-06-08 13:38:21,774  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:38:21,774  INFO [main] TST -Preenchendo Senha
+2017-06-08 13:38:21,957  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133821.png
+2017-06-08 13:38:21,957  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133821.png
+2017-06-08 13:38:22,184  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:38:22,184  INFO [main] TST - Clicando no botão entrar
+2017-06-08 13:38:24,282  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133824.png
+2017-06-08 13:38:24,282  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133824.png
+2017-06-08 13:39:09,734  INFO [main] TST - Fechando Banner
+2017-06-08 13:39:09,734  INFO [main] TST - Fechando Banner
+2017-06-08 13:39:12,201  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.44 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir104800_7370}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: cee854a8154b7d713fb994ccff52092a
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 13:39:12,201  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:39:12,201  INFO [main] ERRO ====> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.44 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir104800_7370}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: cee854a8154b7d713fb994ccff52092a
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 13:39:12,201  INFO [main] TST - Selecionando a opção 'Minha conta' no menu lateral esquerdo.
+2017-06-08 13:39:17,314  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133917.png
+2017-06-08 13:39:17,314  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.06.08-133917.png
+2017-06-08 13:39:17,446  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.
+2017-06-08 13:39:17,446  INFO [main] TST - Selecionando a opção '2ª via de contas' no submenu 'Contas' do menu lateral esquerdo.
+2017-06-08 15:40:34,820  INFO [main] ---------------------------------------------------------
+2017-06-08 15:40:34,822  INFO [main] 
+2017-06-08 15:40:34,820  INFO [main] ---------------------------------------------------------
+2017-06-08 15:40:34,822  INFO [main] 
+2017-06-08 15:40:34,823  INFO [main] * 08/06/2017 15:40:34 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 15:40:34,823  INFO [main] 
+2017-06-08 15:40:34,823  INFO [main] ---------------------------------------------------------
+2017-06-08 15:40:34,823  INFO [main] * 08/06/2017 15:40:34 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 15:40:34,823  INFO [main] 
+2017-06-08 15:40:34,823  INFO [main] ---------------------------------------------------------
+2017-06-08 15:40:37,973  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 15:40:37,973  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 15:44:12,805  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154412.png
+2017-06-08 15:44:12,805  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154412.png
+2017-06-08 15:44:13,053  INFO [main] TST - Preenchendo estado
+2017-06-08 15:44:13,053  INFO [main] TST - Preenchendo estado
+2017-06-08 15:44:13,384  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154413.png
+2017-06-08 15:44:13,384  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154413.png
+2017-06-08 15:44:13,589  INFO [main] TST - Selecionando estado
+2017-06-08 15:44:13,589  INFO [main] TST - Selecionando estado
+2017-06-08 15:44:22,228  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 15:44:22,228  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 15:48:54,733  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir106580_27397}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 87a618036fc223e07294523f4295e81f
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 15:48:54,745  INFO [main] TST - Preencher Login 
+2017-06-08 15:48:54,733  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir106580_27397}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 87a618036fc223e07294523f4295e81f
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 15:48:54,745  INFO [main] TST - Preencher Login 
+2017-06-08 15:48:54,965  INFO [main] TST -Preenchendo Senha
+2017-06-08 15:48:54,965  INFO [main] TST -Preenchendo Senha
+2017-06-08 15:48:55,150  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154855.png
+2017-06-08 15:48:55,150  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154855.png
+2017-06-08 15:48:57,425  INFO [main] TST -Preenchendo Senha
+2017-06-08 15:48:57,425  INFO [main] TST -Preenchendo Senha
+2017-06-08 15:48:59,558  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154859.png
+2017-06-08 15:48:59,558  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-154859.png
+2017-06-08 15:49:04,587  INFO [main] TST - Fechando Banner
+2017-06-08 15:49:04,587  INFO [main] TST - Fechando Banner
+2017-06-08 15:49:06,625  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir106580_27397}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 87a618036fc223e07294523f4295e81f
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 15:49:06,628  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-08 15:49:06,625  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir106580_27397}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 87a618036fc223e07294523f4295e81f
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 15:49:06,628  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-08 16:05:43,863  INFO [main] ---------------------------------------------------------
+2017-06-08 16:05:43,865  INFO [main] 
+2017-06-08 16:05:43,866  INFO [main] * 08/06/2017 16:05:43 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:05:43,866  INFO [main] 
+2017-06-08 16:05:43,866  INFO [main] ---------------------------------------------------------
+2017-06-08 16:05:43,863  INFO [main] ---------------------------------------------------------
+2017-06-08 16:05:43,865  INFO [main] 
+2017-06-08 16:05:43,866  INFO [main] * 08/06/2017 16:05:43 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:05:43,866  INFO [main] 
+2017-06-08 16:05:43,866  INFO [main] ---------------------------------------------------------
+2017-06-08 16:05:47,074  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:05:47,074  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:09:18,624  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-160918.png
+2017-06-08 16:09:18,624  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-160918.png
+2017-06-08 16:09:18,952  INFO [main] TST - Preenchendo estado
+2017-06-08 16:09:18,952  INFO [main] TST - Preenchendo estado
+2017-06-08 16:09:19,208  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-160919.png
+2017-06-08 16:09:19,208  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-160919.png
+2017-06-08 16:09:19,487  INFO [main] TST - Selecionando estado
+2017-06-08 16:09:19,487  INFO [main] TST - Selecionando estado
+2017-06-08 16:09:28,116  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:09:28,116  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:13:01,354  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir105636_5229}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8e43a78040b8b7810f237429176adde5
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:13:01,364  INFO [main] TST - Preencher Login 
+2017-06-08 16:13:01,354  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir105636_5229}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8e43a78040b8b7810f237429176adde5
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:13:01,364  INFO [main] TST - Preencher Login 
+2017-06-08 16:13:01,565  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:13:01,565  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:13:01,761  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161301.png
+2017-06-08 16:13:01,761  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161301.png
+2017-06-08 16:13:04,039  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:13:04,039  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:13:06,157  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161306.png
+2017-06-08 16:13:06,157  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161306.png
+2017-06-08 16:13:08,553  INFO [main] TST - Fechando Banner
+2017-06-08 16:13:08,553  INFO [main] TST - Fechando Banner
+2017-06-08 16:13:10,974  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.42 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir105636_5229}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8e43a78040b8b7810f237429176adde5
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 16:13:10,978  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-08 16:13:10,974  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.42 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir105636_5229}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8e43a78040b8b7810f237429176adde5
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 16:13:10,978  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-08 16:15:35,231  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:35,234  INFO [main] 
+2017-06-08 16:15:35,234  INFO [main] * 08/06/2017 16:15:35 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:15:35,234  INFO [main] 
+2017-06-08 16:15:35,234  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:35,231  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:35,234  INFO [main] 
+2017-06-08 16:15:35,234  INFO [main] * 08/06/2017 16:15:35 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:15:35,234  INFO [main] 
+2017-06-08 16:15:35,234  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:38,422  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:15:38,422  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:15:54,982  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:54,984  INFO [main] 
+2017-06-08 16:15:54,982  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:54,985  INFO [main] * 08/06/2017 16:15:54 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:15:54,984  INFO [main] 
+2017-06-08 16:15:54,985  INFO [main] 
+2017-06-08 16:15:54,985  INFO [main] * 08/06/2017 16:15:54 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:15:54,985  INFO [main] 
+2017-06-08 16:15:54,985  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:54,985  INFO [main] ---------------------------------------------------------
+2017-06-08 16:15:57,822  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:15:57,822  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:19:29,446  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161929.png
+2017-06-08 16:19:29,446  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161929.png
+2017-06-08 16:19:29,700  INFO [main] TST - Preenchendo estado
+2017-06-08 16:19:29,700  INFO [main] TST - Preenchendo estado
+2017-06-08 16:19:29,977  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161929.png
+2017-06-08 16:19:29,977  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-161929.png
+2017-06-08 16:19:30,184  INFO [main] TST - Selecionando estado
+2017-06-08 16:19:30,184  INFO [main] TST - Selecionando estado
+2017-06-08 16:19:38,845  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:19:38,845  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:22:22,645  INFO [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108460_28459}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 283ae93571132e77dbe64f5fa6cda181
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:22:22,654  INFO [main] TST - Preencher Login 
+2017-06-08 16:22:22,645  INFO [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108460_28459}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 283ae93571132e77dbe64f5fa6cda181
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:22:22,654  INFO [main] TST - Preencher Login 
+2017-06-08 16:31:29,029  INFO [main] ---------------------------------------------------------
+2017-06-08 16:31:29,032  INFO [main] 
+2017-06-08 16:31:29,029  INFO [main] ---------------------------------------------------------
+2017-06-08 16:31:29,032  INFO [main] 
+2017-06-08 16:31:29,032  INFO [main] * 08/06/2017 16:31:29 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:31:29,032  INFO [main] 
+2017-06-08 16:31:29,032  INFO [main] ---------------------------------------------------------
+2017-06-08 16:31:29,032  INFO [main] * 08/06/2017 16:31:29 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:31:29,032  INFO [main] 
+2017-06-08 16:31:29,032  INFO [main] ---------------------------------------------------------
+2017-06-08 16:31:32,196  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:31:32,196  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:35:07,337  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-163507.png
+2017-06-08 16:35:07,337  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-163507.png
+2017-06-08 16:35:07,656  INFO [main] TST - Preenchendo estado
+2017-06-08 16:35:07,656  INFO [main] TST - Preenchendo estado
+2017-06-08 16:35:08,119  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-163508.png
+2017-06-08 16:35:08,119  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-163508.png
+2017-06-08 16:35:08,399  INFO [main] TST - Selecionando estado
+2017-06-08 16:35:08,399  INFO [main] TST - Selecionando estado
+2017-06-08 16:35:17,103  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:35:17,103  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-06-08 16:37:47,676  INFO [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir103584_10065}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 0a03d9a676881abf93c70610b207d134
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:37:47,686  INFO [main] TST - Preencher Login 
+2017-06-08 16:37:47,676  INFO [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir103584_10065}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 0a03d9a676881abf93c70610b207d134
+*** Element info: {Using=xpath, value=/html/body/div[5]/div/div[2]/div[1]/div[6]/a[1]}
+2017-06-08 16:37:47,686  INFO [main] TST - Preencher Login 
+2017-06-08 16:37:54,668  INFO [main] ---------------------------------------------------------
+2017-06-08 16:37:54,670  INFO [main] 
+2017-06-08 16:37:54,668  INFO [main] ---------------------------------------------------------
+2017-06-08 16:37:54,670  INFO [main] 
+2017-06-08 16:37:54,670  INFO [main] * 08/06/2017 16:37:54 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:37:54,671  INFO [main] 
+2017-06-08 16:37:54,671  INFO [main] ---------------------------------------------------------
+2017-06-08 16:37:54,670  INFO [main] * 08/06/2017 16:37:54 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:37:54,671  INFO [main] 
+2017-06-08 16:37:54,671  INFO [main] ---------------------------------------------------------
+2017-06-08 16:37:57,831  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:37:57,831  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:38:17,376  INFO [main] ---------------------------------------------------------
+2017-06-08 16:38:17,378  INFO [main] 
+2017-06-08 16:38:17,378  INFO [main] * 08/06/2017 16:38:17 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:38:17,376  INFO [main] ---------------------------------------------------------
+2017-06-08 16:38:17,378  INFO [main] 
+2017-06-08 16:38:17,378  INFO [main] * 08/06/2017 16:38:17 EXECUTANDO => testAcessarMenusLateralEsq
+2017-06-08 16:38:17,379  INFO [main] 
+2017-06-08 16:38:17,379  INFO [main] ---------------------------------------------------------
+2017-06-08 16:38:17,379  INFO [main] 
+2017-06-08 16:38:17,379  INFO [main] ---------------------------------------------------------
+2017-06-08 16:38:20,650  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:38:20,650  INFO [main] TST - Abrindo a tela inicial
+2017-06-08 16:42:34,485  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164234.png
+2017-06-08 16:42:34,485  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164234.png
+2017-06-08 16:42:34,874  INFO [main] TST - Preenchendo estado
+2017-06-08 16:42:34,874  INFO [main] TST - Preenchendo estado
+2017-06-08 16:42:34,938  INFO [main] org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108356_8908}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5197de956f7866ca4c46d8e156facb2
+2017-06-08 16:42:34,947  INFO [main] TST - Preencher Login 
+2017-06-08 16:42:34,938  INFO [main] org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108356_8908}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5197de956f7866ca4c46d8e156facb2
+2017-06-08 16:42:34,947  INFO [main] TST - Preencher Login 
+2017-06-08 16:42:35,166  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:42:35,166  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:42:35,364  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164235.png
+2017-06-08 16:42:35,364  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164235.png
+2017-06-08 16:42:37,688  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:42:37,688  INFO [main] TST -Preenchendo Senha
+2017-06-08 16:42:39,813  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164239.png
+2017-06-08 16:42:39,813  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\Evidencias\testAcessarMenusLateralEsq\screenshot-2017.06.08-164239.png
+2017-06-08 16:43:00,713  INFO [main] TST - Fechando Banner
+2017-06-08 16:43:00,713  INFO [main] TST - Fechando Banner
+2017-06-08 16:43:02,767  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108356_8908}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5197de956f7866ca4c46d8e156facb2
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 16:43:02,770  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.
+2017-06-08 16:43:02,767  INFO [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div"}
+  (Session info: chrome=58.0.3029.110)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 02:56:46'
+System info: host: 'MW7J82AUMFVA03', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\SARATA~1.DUT\AppData\Local\Temp\scoped_dir108356_8908}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f5197de956f7866ca4c46d8e156facb2
+*** Element info: {Using=xpath, value=//*[@id='breadCrumb_vcMVMHomePosPage']/div/div[3]/div}
+2017-06-08 16:43:02,770  INFO [main] TST - Selecionando a opção 'Consumo' no menu lateral esquerdo.

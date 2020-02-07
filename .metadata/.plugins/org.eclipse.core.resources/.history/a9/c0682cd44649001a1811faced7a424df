@@ -1,0 +1,62 @@
+package testQa.google.tela;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class FakeNamePageObjects {
+	
+	private WebDriver driver;
+	
+	public FakeNamePageObjects(WebDriver webdriver)
+	{
+		this.driver = webdriver;
+	}
+	
+	public void waitButton()
+	{
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(By.id("genbtn")));
+	}
+	
+	public void clickGenerate()
+	{
+		driver.findElement(By.id("genbtn")).click();
+	}
+	
+	public String getNome()
+	{
+		return driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[1]/h3")).getText();	
+	}
+	
+	/*public Integer getCodigoPais()
+	{
+		return Integer.parseInt(driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[4]/dd/text()")).getText());	
+	}
+	*/
+	public String getFone()
+	{
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[3]/dd/text()
+		//#details > div.content > div.info > div > div.extra > dl:nth-child(4) > dd
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[3]/dd]
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[3]/dd/text()
+
+		return "" ;
+				//driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[3]/dd/text()")).getText();	
+	}
+	
+	public String getDataNascimento()
+	{
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[5]/dd/text()
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[6]/dd/text()
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[6]/dd/text()
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[5]/dd/text()
+		//*[@id="details"]/div[2]/div[2]/div/div[2]/dl[5]/dd/text()
+		return driver.findElement(By.xpath("//*[@id=\"details\"]/div[2]/div[2]/div/div[2]/dl[5]/dd")).getText();	
+	}
+
+	
+	
+}

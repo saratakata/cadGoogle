@@ -1,0 +1,128 @@
+2017-05-17 12:42:41,523  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:42:41,523  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:49:54,154  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:49:54,154  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:52:54,206  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:52:54,206  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 12:56:26,739  INFO [main] ---------------------------------------------------------
+2017-05-17 12:56:26,739  INFO [main] 
+2017-05-17 12:56:26,739  INFO [main] ---------------------------------------------------------
+2017-05-17 12:56:26,739  INFO [main] * 17/05/2017 12:56:26 EXECUTANDO => testLogar
+2017-05-17 12:56:26,739  INFO [main] 
+2017-05-17 12:56:26,739  INFO [main] 
+2017-05-17 12:56:26,739  INFO [main] * 17/05/2017 12:56:26 EXECUTANDO => testLogar
+2017-05-17 12:56:26,739  INFO [main] ---------------------------------------------------------
+2017-05-17 12:56:26,739  INFO [main] 
+2017-05-17 12:56:26,739  INFO [main] ---------------------------------------------------------
+2017-05-17 12:56:26,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-125626.png
+2017-05-17 12:56:26,745  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-125626.png
+2017-05-17 12:56:27,482  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-125627.png
+2017-05-17 12:56:27,482  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-125627.png
+2017-05-17 12:56:27,688  INFO [main] TST - Preenchendo estado
+2017-05-17 12:56:27,688  INFO [main] TST - Preenchendo estado
+2017-05-17 12:56:28,169  INFO [main] TST - Selecionando estado
+2017-05-17 12:56:28,169  INFO [main] TST - Selecionando estado
+2017-05-17 12:56:29,936  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 12:56:29,936  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 13:01:46,606  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 13:01:46,606  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 13:05:18,210  INFO [main] ---------------------------------------------------------
+2017-05-17 13:05:18,210  INFO [main] 
+2017-05-17 13:05:18,211  INFO [main] * 17/05/2017 13:05:18 EXECUTANDO => testLogar
+2017-05-17 13:05:18,211  INFO [main] 
+2017-05-17 13:05:18,211  INFO [main] ---------------------------------------------------------
+2017-05-17 13:05:18,210  INFO [main] ---------------------------------------------------------
+2017-05-17 13:05:18,210  INFO [main] 
+2017-05-17 13:05:18,211  INFO [main] * 17/05/2017 13:05:18 EXECUTANDO => testLogar
+2017-05-17 13:05:18,211  INFO [main] 
+2017-05-17 13:05:18,211  INFO [main] ---------------------------------------------------------
+2017-05-17 13:05:18,216  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130518.png
+2017-05-17 13:05:18,216  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130518.png
+2017-05-17 13:05:18,576  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130518.png
+2017-05-17 13:05:18,576  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130518.png
+2017-05-17 13:05:18,832  INFO [main] TST - Preenchendo estado
+2017-05-17 13:05:18,832  INFO [main] TST - Preenchendo estado
+2017-05-17 13:05:19,415  INFO [main] TST - Selecionando estado
+2017-05-17 13:05:19,415  INFO [main] TST - Selecionando estado
+2017-05-17 13:05:21,153  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 13:05:21,153  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 13:08:52,285  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130852.png
+2017-05-17 13:08:52,285  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130852.png
+2017-05-17 13:08:52,718  INFO [main] TST - Preencher Login 
+2017-05-17 13:08:52,718  INFO [main] TST - Preencher Login 
+2017-05-17 13:08:53,126  INFO [main] TST -Preenchendo Senha
+2017-05-17 13:08:53,126  INFO [main] TST -Preenchendo Senha
+2017-05-17 13:08:53,418  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130853.png
+2017-05-17 13:08:53,418  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130853.png
+2017-05-17 13:08:53,669  INFO [main] TST -Preenchendo Senha
+2017-05-17 13:08:53,669  INFO [main] TST -Preenchendo Senha
+2017-05-17 13:08:55,852  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130855.png
+2017-05-17 13:08:55,852  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-130855.png
+2017-05-17 14:48:23,785  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 14:48:23,785  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 14:48:25,759  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 14:48:25,759  INFO [main] TST - Abrindo a tela inicial
+2017-05-17 14:52:01,217  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:01,217  INFO [main] 
+2017-05-17 14:52:01,217  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:01,217  INFO [main] 
+2017-05-17 14:52:01,218  INFO [main] * 17/05/2017 14:52:01 EXECUTANDO => testLogar
+2017-05-17 14:52:01,218  INFO [main] 
+2017-05-17 14:52:01,218  INFO [main] * 17/05/2017 14:52:01 EXECUTANDO => testLogar
+2017-05-17 14:52:01,218  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:01,218  INFO [main] 
+2017-05-17 14:52:01,218  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:01,223  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145201.png
+2017-05-17 14:52:01,223  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145201.png
+2017-05-17 14:52:01,536  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145201.png
+2017-05-17 14:52:01,536  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145201.png
+2017-05-17 14:52:01,740  INFO [main] TST - Preenchendo estado
+2017-05-17 14:52:01,740  INFO [main] TST - Preenchendo estado
+2017-05-17 14:52:02,059  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:02,059  INFO [main] 
+2017-05-17 14:52:02,060  INFO [main] * 17/05/2017 14:52:02 EXECUTANDO => testLogar
+2017-05-17 14:52:02,059  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:02,059  INFO [main] 
+2017-05-17 14:52:02,060  INFO [main] * 17/05/2017 14:52:02 EXECUTANDO => testLogar
+2017-05-17 14:52:02,060  INFO [main] 
+2017-05-17 14:52:02,060  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:02,060  INFO [main] 
+2017-05-17 14:52:02,060  INFO [main] ---------------------------------------------------------
+2017-05-17 14:52:02,067  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145202.png
+2017-05-17 14:52:02,067  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145202.png
+2017-05-17 14:52:02,207  INFO [main] TST - Selecionando estado
+2017-05-17 14:52:02,207  INFO [main] TST - Selecionando estado
+2017-05-17 14:52:02,379  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145202.png
+2017-05-17 14:52:02,379  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145202.png
+2017-05-17 14:52:02,593  INFO [main] TST - Preenchendo estado
+2017-05-17 14:52:02,593  INFO [main] TST - Preenchendo estado
+2017-05-17 14:52:03,111  INFO [main] TST - Selecionando estado
+2017-05-17 14:52:03,111  INFO [main] TST - Selecionando estado
+2017-05-17 14:52:04,030  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 14:52:04,030  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 14:52:04,813  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 14:52:04,813  INFO [main] TST - Selecionando opção 'Sou cliente vivo' 
+2017-05-17 14:55:35,752  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145535.png
+2017-05-17 14:55:35,752  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145535.png
+2017-05-17 14:55:36,098  INFO [main] TST - Preencher Login 
+2017-05-17 14:55:36,098  INFO [main] TST - Preencher Login 
+2017-05-17 14:55:36,614  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:36,614  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:36,651  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145536.png
+2017-05-17 14:55:36,651  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145536.png
+2017-05-17 14:55:37,035  INFO [main] TST - Preencher Login 
+2017-05-17 14:55:37,035  INFO [main] TST - Preencher Login 
+2017-05-17 14:55:37,209  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145537.png
+2017-05-17 14:55:37,209  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145537.png
+2017-05-17 14:55:37,636  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:37,636  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:37,785  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:37,785  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:38,230  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145538.png
+2017-05-17 14:55:38,230  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145538.png
+2017-05-17 14:55:38,483  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:38,483  INFO [main] TST -Preenchendo Senha
+2017-05-17 14:55:39,894  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145539.png
+2017-05-17 14:55:39,894  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145539.png
+2017-05-17 14:55:40,713  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145540.png
+2017-05-17 14:55:40,713  INFO [main] Screenshot: D:\Teste_Ambiente\integration-test\null\screenshot-2017.05.17-145540.png
